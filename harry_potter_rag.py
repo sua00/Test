@@ -23,23 +23,28 @@ def search_similar_scenes(query, top_k=5):
 
     return results
 
-def generate_response(character, question, retrieved_scenes):
+def generate_response(character, role, question, retrieved_scenes):
+    import google.generativeai as genai
+    import os
+    genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
-    # 프롬프트 구성 (이전과 동일)
     prompt = f"""
     You are the character "{character}" from the Harry Potter universe.
-    You are highly knowledgeable about Hogwarts School of Witchcraft and Wizardry, magical laws, the Ministry of Magic, the Dark Arts, Quidditch, and other aspects of the wizarding world.
-    Please answer the following question based on your character's personality, knowledge, and experience.
+    Right now, you are talking to someone who is your "{role}".
+    Please respond to this "{role}" in the tone and style you would naturally use when talking to a {role}.
 
-    Below are reference scenes related to the question. These are actual events that happened in your life. Whenever possible, use these references to provide your answer.
-    If the reference scenes are too long, they may be summarized versions of the original events.
+    You trust this {role}, so you can speak naturally — whether it's being respectful to a professor, casual with a friend, or warm with a family member.
 
-    Reference Scenes:
+    You can refer to the scenes below if they help you remember something, but you don't need to quote them directly.
+
+    Reference Scenes (for your memory only):
     {retrieved_scenes}
 
-    Question: {question}
+    The {role}'s question:
+    {question}
     """
 
     response = model.generate_content(prompt)
 
     return response.text.strip()
+
