@@ -1,0 +1,3873 @@
+[
+    {
+        "Session": "Session-1",
+        "Chapter": "Book1-chapter2",
+        "Scene": "Mrs. Figg, the Dursleys' usual babysitter for Harry, has broken her leg and can no longer take care of him. The Dursleys consider leaving Harry at home alone, taking him to the zoo and leaving him ...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "You could just leave me here,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I won’t blow up the house,"
+            }
+        ]
+    },
+    {
+        "Session": "Session-2",
+        "Chapter": "Book1-chapter2",
+        "Scene": "Harry and his family visit the reptile house at the zoo, where Harry strikes up a conversation with a boa constrictor from Brazil. Dudley and Piers interrupt, causing Harry to fall and the glass fr...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "I know, Where do you come from, anyway? Was it nice there? Oh, I see — so you’ve never been to Brazil?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-3",
+        "Chapter": "Book1-chapter3",
+        "Scene": "In this scene, Harry Potter asks his Aunt Petunia about a wet piece of clothing in a bowl. She reveals that it is his new school uniform, which she is dyeing gray to match the other students' unifo...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "What’s this?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Oh, I didn’t realize it had to be so wet."
+            }
+        ]
+    },
+    {
+        "Session": "Session-4",
+        "Chapter": "Book1-chapter3",
+        "Scene": "In this scene, Harry is asked by Uncle Vernon to get the mail, but Dudley is instructed to make Harry get it. Harry finds a letter addressed to him, which is a surprise since no one has ever writte...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Make Dudley get it."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "That’s mine!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I want to read it, as it’s mine."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I WANT MY LETTER!"
+            }
+        ]
+    },
+    {
+        "Session": "Session-5",
+        "Chapter": "Book1-chapter5",
+        "Scene": "Harry wakes up and realizes that his encounter with Hagrid and the news of being a wizard was not a dream. Aunt Petunia knocks on the door, but Harry is too happy to care. An owl delivers a newspap...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "It was a dream, I dreamed a giant called Hagrid came to tell me I was going to a school for wizards. When I open my eyes I’ll be at home in my cupboard. And there’s Aunt Petunia knocking on the door, All right, I’m getting up. Don’t do that."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "What? What?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Knuts?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Um — Hagrid?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I haven’t got any money — and you heard Uncle Vernon last night . . . he won’t pay for me to go and learn magic. But if their house was destroyed —"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Wizards have banks?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Goblins? Goblins? Goblins? Goblins? Goblins? Goblins? Goblins? Goblins? Goblins? Goblins?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-6",
+        "Chapter": "Book1-chapter5",
+        "Scene": "Harry and Hagrid leave the island by boat and Hagrid reveals that he flew there. He asks Harry not to mention it at Hogwarts. Hagrid explains that Gringotts is heavily guarded with spells and encha...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "How did you get here?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Flew?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Why would you be mad to try and rob Gringotts?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "There’s a Ministry of Magic?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "But what does a Ministry of Magic do?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Why? Why? Why?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-7",
+        "Chapter": "Book1-chapter5",
+        "Scene": "Harry and Hagrid went to Flourish and Blotts to buy Harry's school books. Harry was fascinated by the variety of books, including one on curses that he wanted to use on Dudley. Hagrid reminded Harr...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "I was trying to find out how to curse Dudley."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "You don’t have to —"
+            }
+        ]
+    },
+    {
+        "Session": "Session-8",
+        "Chapter": "Book1-chapter5",
+        "Scene": "In this scene, Harry and Hagrid visit Ollivanders, the only place for wands. Mr. Ollivander, the owner, greets them and measures Harry for his wand. He tries several wands before finding the perfec...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Hello,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Oh,"
+            }
+        ]
+    },
+    {
+        "Session": "Session-9",
+        "Chapter": "Book1-chapter5",
+        "Scene": "In this scene, Harry expresses his doubts about his magical abilities and why people think he is special. Hagrid reassures him that he will learn everything he needs to know at Hogwarts and advises...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Everyone thinks I’m special, All those people in the Leaky Cauldron, Professor Quirrell, Mr. Ollivander .. . but I don’t know anything about magic at all. How can they expect great things?I’m famous and I can’t even remember what I’m famous for. I don’t know what happened when Vol-, sorry — I mean, the night my parents died."
+            }
+        ]
+    },
+    {
+        "Session": "Session-10",
+        "Chapter": "Book1-chapter8",
+        "Scene": "In this scene, Harry, Hermione, and their classmates are in a Potions class with Snape. Snape asks Harry a question about the difference between monkshood and wolfsbane, but Harry doesn't know the ...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "I don’t know, sir,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I don’t know, sir,"
+            }
+        ]
+    },
+    {
+        "Session": "Session-12",
+        "Chapter": "Book1-chapter9",
+        "Scene": "Harry, Ron, Hermione, and Neville are trying to escape from the trophy room when they encounter Peeves. Peeves threatens to tell Filch about them wandering around at midnight, but Ron tries to take...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "I think we’ve lost him"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "I -- told - you. I -- told - you."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Let's go. Shut up, Peeves -- please -- you'll get us thrown out."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": ""
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Get out of the way,"
+            }
+        ]
+    },
+    {
+        "Session": "Session-14",
+        "Chapter": "Book1-chapter10",
+        "Scene": "Oliver Wood teaches Harry the rules of Quidditch, the sport played on broomsticks at Hogwarts. The game involves seven players on each side, with three Chasers who try to score goals with the Quaff...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Three Chasers,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "The Chasers throw the Quaffle and put it through the hoops to score, So — that’s sort of like basketball on broomsticks with six hoops, isn’t it?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Never mind,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Three Chasers, one Keeper, And they play with the Quaffle."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Three Chasers try and score with the Quaffle; the Keeper guards the goalposts; the Beaters keep the Bludgers away from their team,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Er — have the Bludgers ever killed anyone?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-15",
+        "Chapter": "Book1-chapter12",
+        "Scene": "In this scene, Harry, Ron, and Hermione are exchanging Christmas presents. Ron receives a maroon sweater from his mother, while Hermione gives Harry a box of Chocolate Frogs. Harry's last present i...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "Merry Christmas,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "You, too, Will you look at this? I’ve got some presents!"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "What did you expect, turnips?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "That’s friendly, Hagrid and my aunt and uncle — so who sent these? That’s really nice of her,"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "If that’s what I think it is — they’re really rare, and really valuable."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "What is it?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "It is! Look down!"
+            }
+        ]
+    },
+    {
+        "Session": "Session-16",
+        "Chapter": "Book1-chapter12",
+        "Scene": "Harry and Ron use the Invisibility Cloak to sneak into the restricted section of the Hogwarts library and find the Mirror of Erised. Harry sees his deceased parents in the mirror and Ron sees himse...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "It’s here — just here — yes! See?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "I can’t see anything."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Look! Look at them all . . . there are loads of them. . . ."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "I can only see you."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Look in it properly, go on, stand where I am."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Look at me!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Can you see all your family standing around you?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "No — I’m alone — but I’m different — I look older — and I’m Head Boy!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "What?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "I am — I’m wearing the badge like Bill used to — and I’m holding the House Cup and the Quidditch Cup — I’m Quidditch captain, too! Do you think this mirror shows the future?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "How can it? All my family are dead — let me have another look —"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "You had it to yourself all last night, give me a bit more time."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "You’re only holding the Quidditch Cup, what’s interesting about that? I want to see my parents."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Don’t push me —"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Quick!"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "This isn’t safe — she might have gone for Filch, I bet she heard us. Come on."
+            }
+        ]
+    },
+    {
+        "Session": "Session-17",
+        "Chapter": "Book1-chapter12",
+        "Scene": "Ron asks Harry if he wants to play chess, but Harry declines. Ron suggests they visit Hagrid, but Harry also declines. Ron warns Harry not to go back to the mirror of Erised that night, as he has a...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "Want to play chess, Harry?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "No."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Why don’t we go down and visit Hagrid?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "No . . . you go . . ."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "I know what you’re thinking about, Harry, that mirror. Don’t go back tonight."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Why not?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Filch, Snape, and Mrs. Norris are wandering around.  So what if they can’t see you?What if they walk into you?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "You sound like Hermione."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "I’m serious, Harry, don’t go."
+            }
+        ]
+    },
+    {
+        "Session": "Session-18",
+        "Chapter": "Book1-chapter15",
+        "Scene": "Harry, Hermione, Ron, and Neville are caught by Professor McGonagall after being out of bed and in the Astronomy Tower at one o'clock in the morning. Professor McGonagall accuses them of feeding Dr...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Fifty?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Professor — please — You can’t —"
+            }
+        ]
+    },
+    {
+        "Session": "Session-19",
+        "Chapter": "Book1-chapter15",
+        "Scene": "Harry tells Ron and Hermione that Snape wants the Philosopher's Stone for Voldemort, who is waiting in the forest. He also mentions that Bane, a centaur, was angry with Firenze for saving him and i...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Snape wants the Stone for Voldemort . . . and Voldemort’s waiting in the forest . . . and all this time we thought Snape just wanted to get rich. . . ."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Stop saying the name!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Firenze saved me, but he shouldn’t have done so. . . . Bane was furious . . . he was talking about interfering with what the planets say is going to happen. . . . They must show that Voldemort’s coming back. . . . Bane thinks Firenze should have let Voldemort kill me. . . . I suppose that’s written in the stars as well."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Will you stop saying the name!"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Professor McGonagall says"
+            }
+        ]
+    },
+    {
+        "Session": "Session-20",
+        "Chapter": "Book1-chapter16",
+        "Scene": "Harry, Ron, and Hermione are discussing the strange coincidence that Hagrid, who has always wanted a dragon, suddenly has an egg in his possession after a stranger came to visit. Harry realizes tha...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "Where’re you going?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "We’ve got to go and see Hagrid, now."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Why?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "What are you talking about?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-21",
+        "Chapter": "Book1-chapter16",
+        "Scene": "Harry, Ron, and Hermione ask Hagrid about the stranger he played cards with the night he won Norbert. Hagrid tells them that the stranger wouldn't take his cloak off and that he might have been a d...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "Yes, please,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "No, we’re in a hurry. Hagrid, I’ve got to ask you something. You know that night you won Norbert? What did the stranger you were playing cards with look like?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "What did you talk to him about, Hagrid? Did you mention Hogwarts at all?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "And did he — did he seem interested in Fluffy?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-22",
+        "Chapter": "Book1-chapter16",
+        "Scene": "In this scene, Harry and Ron encounter Peeves the poltergeist, who mistakes the Bloody Baron for being invisible. Harry warns Peeves to stay away from the place as he has some business there. Peeve...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "Oh, let's kick her, just this once."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Brilliant, Harry."
+            }
+        ]
+    },
+    {
+        "Session": "Session-23",
+        "Chapter": "Book2-chapter1",
+        "Scene": "In Book 2, Chapter 1 of Harry Potter, Uncle Vernon is angry with Harry for his owl's constant hooting. Harry tries to explain that the owl is bored and needs to fly outside, but Uncle Vernon refuse...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "She’s bored,She’s used to flying around outside. If I could just let her out at night —"
+            }
+        ]
+    },
+    {
+        "Session": "Session-24",
+        "Chapter": "Book2-chapter1",
+        "Scene": "In this scene, Uncle Vernon is going over the plan for a dinner with the Masons. Aunt Petunia and Dudley have their roles assigned, while Harry is instructed to stay in his room and not make any no...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "I’ll be in my bedroom, making no noise and pretending I’m not there,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I’ll be in my room, making no noise and pretending I’m not there,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I’ll be in my room, making no noise and pretending I’m not there,"
+            }
+        ]
+    },
+    {
+        "Session": "Session-25",
+        "Chapter": "Book2-chapter2",
+        "Scene": "In this scene, Harry runs into the kitchen and finds Aunt Petunia's pudding floating near the ceiling. Dobby, the house-elf, appears and demands that Harry say he won't return to Hogwarts. Harry re...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Quick! In the closet!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "See what it’s like here?See why I’ve got to go back to Hogwarts? It’s the only place I’ve got — well, I think I’ve got friends."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Have you been stopping my letters?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-29",
+        "Chapter": "Book2-chapter3",
+        "Scene": "Ron and Harry sneak away from Mrs. Weasley's anger and go up to Ron's bedroom. While climbing the stairs, they pass Ginny, who quickly closes her door. Ron comments on how unusual it is for Ginny t...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "Ginny, You don’t know how weird it is for her to be this shy. She never shuts up normally —"
+            }
+        ]
+    },
+    {
+        "Session": "Session-30",
+        "Chapter": "Book2-chapter4",
+        "Scene": "Harry is lost in Knockturn Alley when Hagrid appears and rescues him. Hagrid was looking for a Flesh-Eating Slug Repellent and warns Harry that it's a dodgy place and he shouldn't be seen there. Ha...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "I’m staying with the Weasleys but we got separated, I’ve got to go and find them. . . ."
+            }
+        ]
+    },
+    {
+        "Session": "Session-31",
+        "Chapter": "Book2-chapter4",
+        "Scene": "In Book 2, Chapter 4 of Harry Potter, Harry and Hagrid meet Hermione at the top of the steps to Gringotts. Hermione notices that Harry's glasses are missing and greets them both warmly. Harry tells...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Hermione",
+                "Dialogue": "Harry! Harry! Over here! What happened to your glasses? Hello, Hagrid — Oh, it’s wonderful to see you two again — Are you coming into Gringotts, Harry?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "As soon as I’ve found the Weasleys,"
+            }
+        ]
+    },
+    {
+        "Session": "Session-34",
+        "Chapter": "Book2-chapter5",
+        "Scene": "In this scene, Ron expresses relief that they no longer have to worry about being caught by the Ministry of Magic while flying in their enchanted car. However, Harry is still anxious about the cons...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "All we’ve got to worry about now are airplanes,"
+            }
+        ]
+    },
+    {
+        "Session": "Session-35",
+        "Chapter": "Book2-chapter5",
+        "Scene": "Ron, Harry, and Ron's flying car are still searching for Hogwarts, hours after leaving London. They spot the Hogwarts Express below them, winding past a snowcapped mountain. Ron tries to speed up t...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "Ready for another check on the train? It’s probably just tired, It’s never been this far before. . . ."
+            }
+        ]
+    },
+    {
+        "Session": "Session-36",
+        "Chapter": "Book2-chapter5",
+        "Scene": "Ron, Harry, and the flying Ford Anglia are attacked by a violent tree. The tree bends almost double and its gnarled boughs pummel every inch of the car. Ron and Harry try to escape, but the tree is...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "What’s happen — ?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "We’re done for!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Reverse!"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "That, was close. Well done, car —"
+            }
+        ]
+    },
+    {
+        "Session": "Session-37",
+        "Chapter": "Book2-chapter5",
+        "Scene": "In Book 2, Chapter 5 of Harry Potter, Ron and Harry arrive at Hogwarts and notice that the Sorting ceremony has already begun. They quietly approach the Great Hall and watch as new students are sor...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "I think the feast’s already started, Hey — Harry — come and look — it’s the Sorting!"
+            }
+        ]
+    },
+    {
+        "Session": "Session-38",
+        "Chapter": "Book2-chapter5",
+        "Scene": "Harry and Ron notice an empty chair at the staff table and wonder where Snape is. They speculate that he might be ill, have left, or been sacked. However, Snape suddenly appears behind them and ask...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Hang on . . . There’s an empty chair at the staff table. . . . Where’s Snape?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Maybe he’s ill!"
+            }
+        ]
+    },
+    {
+        "Session": "Session-39",
+        "Chapter": "Book2-chapter5",
+        "Scene": "Harry and Ron enter Snape's office, which is filled with jars of disgusting things. Snape confronts them about flying the car to Hogwarts and shows them an article in the Evening Prophet about Mugg...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "No, sir, it was the barrier at King’s Cross, it —"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "That tree did more damage to us than we —"
+            }
+        ]
+    },
+    {
+        "Session": "Session-40",
+        "Chapter": "Book2-chapter5",
+        "Scene": "Ron and Harry explain to Professor McGonagall that they were unable to board the Hogwarts Express due to the barrier at the station not letting them through. When asked why they didn't send a lette...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "— so we had no choice, Professor, we couldn’t get on the train."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "I — I didn’t think —"
+            }
+        ]
+    },
+    {
+        "Session": "Session-41",
+        "Chapter": "Book2-chapter5",
+        "Scene": "Harry and Ron are summoned to Dumbledore's office after flying a bewitched car to Hogwarts. Dumbledore calmly listens to their explanation, warning them of the seriousness of their actions and that...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "We’ll go and get our stuff,"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "you’re expelling us, aren’t you?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Not much, Professor, I wanted to watch my sister being Sorted —"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Oh, good,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Professor, when we took the car, term hadn’t started, so — so Gryffindor shouldn’t really have points taken from it — should it?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "I thought we’d had it,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "So did I,"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Why couldn’t we get through the barrier?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "We’ll have to watch our step from now on, though, Wish we could’ve gone up to the feast. . . ."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "She didn’t want us showing off, Doesn’t want people to think it’s clever, arriving by flying car."
+            }
+        ]
+    },
+    {
+        "Session": "Session-42",
+        "Chapter": "Book2-chapter6",
+        "Scene": "In Book 2, Chapter 6 of Harry Potter, Ron is upset and snaps at someone who suggests that he deserved something. The exact cause of Ron's frustration is not clear from this brief exchange.",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Hermione",
+                "Dialogue": "Well, I don’t know what you expected, Ron, but you —"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Don’t tell me I deserved it,"
+            }
+        ]
+    },
+    {
+        "Session": "Session-43",
+        "Chapter": "Book2-chapter6",
+        "Scene": "Lockhart scolds Harry for flying a car to Hogwarts and accuses him of seeking publicity. He tells Harry that he understands how he feels but warns him against trying to get noticed by flying cars. ...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Oh, no, Professor, see —"
+            }
+        ]
+    },
+    {
+        "Session": "Session-44",
+        "Chapter": "Book2-chapter6",
+        "Scene": "Lockhart scolds Harry for flying a car to Hogwarts and accuses him of seeking publicity. He tells Harry that he understands how he feels but warns him against trying to get noticed by flying cars. ...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "Stupid — useless — thing —"
+            }
+        ]
+    },
+    {
+        "Session": "Session-47",
+        "Chapter": "Book2-chapter7",
+        "Scene": "In this scene, Harry is woken up by Wood for an early Quidditch practice. Despite the crack of dawn and the thin mist outside, Wood is enthusiastic about their new training program and wants to be ...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Whassamatter? Oliver, It’s the crack of dawn."
+            }
+        ]
+    },
+    {
+        "Session": "Session-48",
+        "Chapter": "Book2-chapter7",
+        "Scene": "In this scene, Colin Creevey shows Harry a photograph of himself being dragged by Lockhart. Harry refuses to sign it and tries to leave for Quidditch practice, but Colin follows him and bombards hi...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "No, Sorry, Colin, I’m in a hurry — Quidditch practice —"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "It’ll be really boring,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Yes, They’re called Bludgers. There are two Beaters on each team who carry clubs to beat the Bludgers away from their side. Fred and George Weasley are the Gryffindor Beaters."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Well, the Quaffle — that’s the biggish red one — is the one that scores goals. Three Chasers on each team throw the Quaffle to each other and try and get it through the goalposts at the end of the pitch — they’re three long poles with hoops on the end."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "— is the Golden Snitch, and it’s very small, very fast, and difficult to catch. But that’s what the Seeker’s got to do, because a game of Quidditch doesn’t end until the Snitch has been caught. And whichever team’s Seeker gets the Snitch earns his team an extra hundred and fifty points."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Yes, And there’s the Keeper, too. He guards the goalposts. That’s it, really."
+            }
+        ]
+    },
+    {
+        "Session": "Session-49",
+        "Chapter": "Book2-chapter7",
+        "Scene": "Harry, Ron, and Hermione hide behind a bush to avoid being seen by Lockhart, who is talking to Hagrid. Lockhart offers to help Hagrid and gives him a copy of his book. After Lockhart leaves, the tr...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Quick, behind here,"
+            }
+        ]
+    },
+    {
+        "Session": "Session-50",
+        "Chapter": "Book2-chapter7",
+        "Scene": "In this scene, Professor McGonagall assigns Ron and Harry to different tasks as punishment. Ron is to polish the silver in the trophy room with Filch, without using magic. Harry is to help Professo...",
+        "Scene_Tags": [
+            "General Scene"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "What’re we doing, Professor?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Oh n — Professor, can’t I go and do the trophy room, too?"
+            }
+        ]
+    },
+    {
+        "Session-51": {
+            "Session": "Session-51",
+            "Chapter": "Book2-chapter7",
+            "Scene": "In this scene, Harry hears a mysterious voice that no one else seems to hear",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "What? That — that voice that said — didn’t you hear it?"
+                }
+            ]
+        },
+        "Session-52": {
+            "Session": "Session-52",
+            "Chapter": "Book2-chapter8",
+            "Scene": "Harry encounters Mrs",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Right,"
+                }
+            ]
+        },
+        "Session-54": {
+            "Session": "Session-54",
+            "Chapter": "Book2-chapter8",
+            "Scene": "In this scene, Harry is confronted by Filch, who suspects him of reading his private files",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "No,"
+                }
+            ]
+        },
+        "Session-55": {
+            "Session": "Session-55",
+            "Chapter": "Book2-chapter8",
+            "Scene": "Harry, Ron, and Hermione take a break from the Yule Ball to explore the Hogwarts castle",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Shall we have a look around?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Careful not to walk through anyone"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Who?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "She haunts one of the toilets in the girls’ bathroom on the first floor"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "She haunts a toilet?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Yes. It’s been out of order all year because she keeps having tantrums and flooding the place. I never went in there anyway if I could avoid it; it’s awful trying to have a pee with her wailing at you —"
+                }
+            ]
+        },
+        "Session-56": {
+            "Session": "Session-56",
+            "Chapter": "Book2-chapter8",
+            "Scene": "In this scene, Harry, Ron, and Hermione come across a message on the wall and notice something hanging underneath it",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Pudding might not be finished yet,"
+                }
+            ]
+        },
+        "Session-57": {
+            "Session": "Session-57",
+            "Chapter": "Book2-chapter8",
+            "Scene": "In this scene, Harry, Ron, and Hermione come across a message on the wall and notice something hanging underneath it",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Ron",
+                    "Dialogue": "What’s that thing — hanging underneath? Let’s get out of here."
+                }
+            ]
+        },
+        "Session-58": {
+            "Session": "Session-58",
+            "Chapter": "Book2-chapter9",
+            "Scene": "Hermione has been affected by the recent attack and has been spending all her time reading",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Ron",
+                    "Dialogue": "I don’t believe it, I’m still eight inches short. . . . And Hermione’s done four feet seven inches and her writing’s tiny."
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Where is she?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Somewhere over there, Looking for another book. I think she’s trying to read the whole library before Christmas. All that junk about Lockhart being so great —"
+                }
+            ]
+        },
+        "Session-59": {
+            "Session": "Session-59",
+            "Chapter": "Book2-chapter10",
+            "Scene": "In this scene, Lockhart assigns homework to the class to write a poem about his defeat of the Wagga Wagga Werewolf",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "But the thing is, it’s in the Restricted Section of the library, so I need a teacher to sign for it — I’m sure it would help me understand what you say in Gadding with Ghouls about slow-acting venoms —"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Oh, yes, So clever, the way you trapped that last one with the tea-strainer —"
+                }
+            ]
+        },
+        "Session-60": {
+            "Session": "Session-60",
+            "Chapter": "Book2-chapter10",
+            "Scene": "Hermione defends Professor Lockhart's intelligence to Harry and Ron as they hurry to the library",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "He is not a brainless git,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Just because he said you were the best student of the year —"
+                }
+            ]
+        },
+        "Session-62": {
+            "Session": "Session-62",
+            "Chapter": "Book2-chapter10",
+            "Scene": "During a Quidditch match, Harry falls from his broomstick and breaks his arm",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Oh, no, not you,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "I don’t want a photo of this, Colin, Why can’t I just go to the hospital wing?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "No — don’t —"
+                }
+            ]
+        },
+        "Session-63": {
+            "Session": "Session-63",
+            "Chapter": "Book2-chapter10",
+            "Scene": "After Harry's Quidditch match, Madam Pomfrey gives him Skele-Gro to regrow his bones, warning him of the unpleasant side effects",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "We can add that to the list of questions we’ll ask him when we’ve taken the Polyjuice Potion,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "I hope it tastes better than this stuff. . . ."
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "If it’s got bits of Slytherins in it? You’ve got to be joking,"
+                }
+            ]
+        },
+        "Session-64": {
+            "Session": "Session-64",
+            "Chapter": "Book2-chapter11",
+            "Scene": "Harry meets Ron and Hermione in the bathroom where they have been brewing the Polyjuice Potion",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Fine,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "We’d’ve come to meet you, but we decided to get started on the Polyjuice Potion,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "We’ve decided this is the safest place to hide it."
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "We already know — we heard Professor McGonagall telling Professor Flitwick this morning. That’s why we decided we’d better get going — The Chamber of Secrets has been opened before?"
+                }
+            ]
+        },
+        "Session-65": {
+            "Session": "Session-65",
+            "Chapter": "Book2-chapter11",
+            "Scene": "In this scene, Malfoy conjures a snake that threatens to attack Justin Finch-Fletchley",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Leave him alone!"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Come on,"
+                }
+            ]
+        },
+        "Session-66": {
+            "Session": "Session-66",
+            "Chapter": "Book2-chapter11",
+            "Scene": "Ron and Hermione take Harry to the Gryffindor common room and confront him about being a Parselmouth, someone who can speak to snakes",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Ron",
+                    "Dialogue": "You’re a Parselmouth. Why didn’t you tell us?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "I’m a what?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "A boa constrictor told you it had never seen Brazil?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "What’s wrong with everyone? Listen, if I hadn’t told that snake not to attack Justin —"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Oh, that’s what you said to it?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "What d’you mean? You were there — you heard me — I spoke a different language? But — I didn’t realize — how can I speak a language without knowing I can speak it? D’you want to tell me what’s wrong with stopping a massive snake biting off Justin’s head? What does it matter how I did it as long as Justin doesn’t have to join the Headless Hunt? But I’m not,"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "You’ll find that hard to prove, He lived about a thousand years ago; for all we know, you could be."
+                }
+            ]
+        },
+        "Session-67": {
+            "Session": "Session-67",
+            "Chapter": "Book2-chapter14",
+            "Scene": "Harry and Ron are discussing the state of Harry's robes, which have all their pockets hanging out",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "No idea, Riddle’s diary’s gone,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "What?"
+                }
+            ]
+        },
+        "Session-68": {
+            "Session": "Session-68",
+            "Chapter": "Book2-chapter15",
+            "Scene": "Ron and Harry are walking in the dark forest when they hear something big moving and breaking branches",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Ron",
+                    "Dialogue": "What?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "There’s something moving over there, Listen . . . sounds like something big. . . ."
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Oh, no, Oh, no, oh, no, oh —"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Shut up, It’ll hear you. What d’you think it’s doing?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Probably getting ready to pounce,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "D’you think it’s gone?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Dunno —"
+                }
+            ]
+        },
+        "Session-69": {
+            "Session": "Session-69",
+            "Chapter": "Book2-chapter15",
+            "Scene": "In this scene, Harry wakes Ron up in the middle of the night to discuss the death of a girl found in a bathroom",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Ron,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "You don’t think — not Moaning Myrtle?"
+                }
+            ]
+        },
+        "Session-70": {
+            "Session": "Session-70",
+            "Chapter": "Book2-chapter16",
+            "Scene": "Lockhart is packing up to leave Hogwarts after being exposed as a fraud by Ron and Harry",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Are you going somewhere?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "What about my sister?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "You wrote them!"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "So you’ve just been taking credit for what a load of other people have done?"
+                }
+            ]
+        },
+        "Session-71": {
+            "Session": "Session-71",
+            "Chapter": "Book3-chapter1",
+            "Scene": "Ron calls the Dursleys' home looking for Harry, but Uncle Vernon answers the phone and becomes angry when he hears Ron's voice",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Ron",
+                    "Dialogue": "HELLO? HELLO? CAN YOU HEAR ME? I — WANT — TO — TALK — TO — HARRY — POTTER!"
+                }
+            ]
+        },
+        "Session-72": {
+            "Session": "Session-72",
+            "Chapter": "Book3-chapter6",
+            "Scene": "In this scene, Professor McGonagall questions why the class did not applaud her transformation and Hermione explains that they were reading tea leaves in their first Divination class",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Please, Professor, we’ve just had our first Divination class, and we were reading the tea leaves, and —"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Me,"
+                }
+            ]
+        },
+        "Session-73": {
+            "Session": "Session-73",
+            "Chapter": "Book3-chapter6",
+            "Scene": "In this scene, Ron is worried about a black dog he saw and believes it to be a Grim, which is an omen of death",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Ron, cheer up, You heard what Professor McGonagall said."
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Harry, you haven’t seen a great black dog anywhere, have you?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Yeah, I have, I saw one the night I left the Dursleys’."
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Probably a stray,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Hermione, if Harry’s seen a Grim, that’s — that’s bad, My — my uncle Bilius saw one and — and he died twenty-four hours later!"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Coincidence,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "You don’t know what you’re talking about! Grims scare the living daylights out of most wizards!"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "There you are, then, They see the Grim and die of fright."
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "There was nothing woolly about the Grim in that cup! Professor Trelawney said you didn’t have the right aura! You just don’t like being bad at something for a change!"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "If being good at Divination means I have to pretend to see death omens in a lump of tea leaves, I’m not sure I’ll be studying it much longer! That lesson was absolute rubbish compared with my Arithmancy class!"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "What’s she talking about? She hasn’t been to an Arithmancy class yet."
+                }
+            ]
+        },
+        "Session-74": {
+            "Session": "Session-74",
+            "Chapter": "Book3-chapter6",
+            "Scene": "Hermione expresses her concern about Hagrid's well-being after his class was disrupted by Malfoy",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "D’you think he’ll be all right?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "’Course he will. Madam Pomfrey can mend cuts in about a second,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "That was a really bad thing to happen in Hagrid’s first class, though, wasn’t it? Trust Malfoy to mess things up for him. . . ."
+                }
+            ]
+        },
+        "Session-75": {
+            "Session": "Session-75",
+            "Chapter": "Book3-chapter7",
+            "Scene": "In this scene, Ron and Harry are angry with Hermione for not lying to Snape about Neville's mistake in the potion class, which resulted in Gryffindor losing five points",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Five points from Gryffindor because the potion was all right! Why didn’t you lie, Hermione? You should’ve said Neville did it all by himself! Where is she? She was right behind us,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "There she is,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "How did you do that?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "What? What?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "One minute you were right behind us, the next moment, you were back at the bottom of the stairs again."
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "What? What? Oh — I had to go back for something. Oh no —"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Why are you carrying all these around with you?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "You know how many subjects I’m taking, Couldn’t hold these for me, could you?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "But — You haven’t got any of these subjects today. It’s only Defense Against the Dark Arts this afternoon."
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Oh yes, I hope there’s something good for lunch, I’m starving,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "D’you get the feeling Hermione’s not telling us something?"
+                }
+            ]
+        },
+        "Session-76": {
+            "Session": "Session-76",
+            "Chapter": "Book3-chapter8",
+            "Scene": "In the greenhouse, Ron is angry and upset about his pet rat Scabbers, who is hiding and shaking in his bed",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "How’s Scabbers?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "He’s hiding at the bottom of my bed, shaking,"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "What’s the matter, Lavender?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Oh, I’m sorry, Lavender."
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Er —"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "You — you were dreading Binky being killed by a fox?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Oh, Was Binky an old rabbit?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "But then, why would you dread him dying? Well, and she can’t have been dreading it, because it’s come as a real shock —"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Ask her now,"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Oh,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Go for it, Harry,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "er er"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "But — Professor, my aunt and uncle — you know, they’re Muggles, they don’t really understand about — about Hogwarts forms and stuff, If you said I could go —"
+                }
+            ]
+        },
+        "Session-77": {
+            "Session": "Session-77",
+            "Chapter": "Book3-chapter8",
+            "Scene": "Hermione and Ron try to cheer up Harry, who is disappointed about not being able to go to Hogsmeade",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "We’ll bring you lots of sweets back from Honeydukes,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Yeah,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Don’t worry about me, I’ll see you at the feast. Have a good time."
+                }
+            ]
+        },
+        "Session-78": {
+            "Session": "Session-78",
+            "Chapter": "Book3-chapter8",
+            "Scene": "Harry, feeling restless, wanders the corridors of Hogwarts and runs into Professor Lupin",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Hogsmeade,"
+                }
+            ]
+        },
+        "Session-79": {
+            "Session": "Session-79",
+            "Chapter": "Book3-chapter8",
+            "Scene": "In chapter 8 of book 3, Harry, Ron, and Hermione enjoy a delicious feast at Hogwarts",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Yeah, maybe,"
+                }
+            ]
+        },
+        "Session-81": {
+            "Session": "Session-81",
+            "Chapter": "Book3-chapter12",
+            "Scene": "In this scene, Wood expresses concern about the possibility of dementors appearing at the next Quidditch match and potentially affecting Harry's performance",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "I’m working on it, Professor Lupin said he’d train me to ward off the dementors. We should be starting this week.He said he’d have time after Christmas."
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "No,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "He got a Firebolt for Christmas,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Don’t get excited, Oliver, I haven’t got it anymore. It was confiscated."
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Sirius Black, He’s supposed to be after me. So McGonagall reckons he might have sent it."
+                }
+            ]
+        },
+        "Session-82": {
+            "Session": "Session-82",
+            "Chapter": "Book3-chapter14",
+            "Scene": "Harry attempts to sneak into Hogsmeade by using the Dissendium spell to open the secret passageway, but Neville interrupts him",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Dissendium!"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "What are you up to?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Er — not now — I was going to go to the library and do that vampire essay for Lupin —"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Er — hang on — yeah, I forgot, I finished it last night!"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "We’re not — meeting here, We just — met here."
+                }
+            ]
+        },
+        "Session-83": {
+            "Session": "Session-83",
+            "Chapter": "Book3-chapter14",
+            "Scene": "In chapter 14 of book 3, Ron and Harry visit the post office and Zonko's joke shop",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Where are you? Are you still there? This feels weird. . . ."
+                }
+            ]
+        },
+        "Session-84": {
+            "Session": "Session-84",
+            "Chapter": "Book3-chapter16",
+            "Scene": "Hermione is stressed and busy preparing for exams, but also worried about Buckbeak's appeal, which is set for the same day as their last exam",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Er — are you sure you’ve copied down these times right?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "What? Yes, of course I have."
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Is there any point asking how you’re going to sit for two exams at once?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "No, Have either of you seen my copy of Numerology and Grammatica?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Oh, yeah, I borrowed it for a bit of bedtime reading,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "It’s from Hagrid, Buckbeak’s appeal — it’s set for the sixth."
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "That’s the day we finish our exams,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "And they’re coming up here to do it, Someone from the Ministry of Magic and — and an executioner."
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "They’re bringing the executioner to the appeal! But that sounds as though they’ve already decided!"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Yeah, it does,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "They can’t! I’ve spent ages reading up on stuff for him; they can’t just ignore it all!"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Mine still had a spout for a tail, what a nightmare. . . ."
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Were the tortoises supposed to breathe steam?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "It still had a willow-patterned shell, d’you think that’ll count against me?"
+                }
+            ]
+        },
+        "Session-86": {
+            "Session": "Session-86",
+            "Chapter": "Book4-chapter8",
+            "Scene": "Harry is lying in his bunk, imagining himself flying like Krum and performing the Wronski Feint",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "’S’ matter?"
+                }
+            ]
+        },
+        "Session-87": {
+            "Session": "Session-87",
+            "Chapter": "Book4-chapter14",
+            "Scene": "Hermione, Ron, and Harry have just finished their Divination homework and are discussing their predictions",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Hello, I’ve just finished!"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "So have I!"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Not going to have a very good month, are you?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Ah well,"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "You seem to be drowning twice,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Oh am I? I’d better change one of them to getting trampled by a rampaging hippogriff."
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Don’t you think it’s a bit obvious you’ve made these up?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "How dare you! We’ve been working like house-elves here! It’s just an expression, What’s in the box?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Funny you should ask,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "What’s this about? What’s this about?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Not spew, It’s S-P-E-W. Stands for the Society for the Promotion of Elfish Welfare."
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Never heard of it,"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Well, of course you haven’t, I’ve only just started it."
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Yeah? How many members have you got?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Well — if you two join — three,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "‘Spew’?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "S-P-E-W! I was going to put Stop the Outrageous Abuse of Our Fellow Magical Creatures and Campaign for a Change in Their Legal Status — but it wouldn’t fit. So that’s the heading of our manifesto. I’ve been researching it thoroughly in the library. Elf enslavement goes back centuries. I can’t believe no one’s done anything about it before now."
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": ""
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Our short-term aims, are to secure house-elves fair wages and working conditions. Our long-term aims include changing the law about non-wand use, and trying to get an elf into the Department for the Regulation and Control of Magical Creatures, because they’re shockingly underrepresented."
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "And how do we do all this?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "We start by recruiting members, I thought two Sickles to join — that buys a badge — and the proceeds can fund our leaflet campaign. You’re treasurer, Ron — I’ve got you a collecting tin upstairs — and Harry, you’re secretary, so you might want to write down everything I’m saying now, as a record of our first meeting."
+                }
+            ]
+        },
+        "Session-88": {
+            "Session": "Session-88",
+            "Chapter": "Book4-chapter15",
+            "Scene": "Harry, Ron, and Hermione hear a strange noise coming from the lake and witness a ship rising from the water",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Can you hear something?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "It’s a mast!"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Harry"
+                }
+            ]
+        },
+        "Session-89": {
+            "Session": "Session-89",
+            "Chapter": "Book4-chapter16",
+            "Scene": "In this scene, Hermione and Ron argue over the cold weather and the lack of cloaks",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "It’s not that cold, Why didn’t they bring cloaks?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Over here! Come and sit over here! Over here! Hermione, budge up, make a space —"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "What?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Too late, Yeah, that’s right, smarm up to him, Malfoy, I bet Krum can see right through him, though . . . bet he gets people fawning over him all the time. . . . Where d’you reckon they’re going to sleep? We could offer him a space in our dormitory, Harry . . . I wouldn’t mind giving him my bed, I could kip on a camp bed."
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "They look a lot happier than the Beauxbatons lot, But there are only two extra people, Why’s Filch putting out four chairs, who else is coming?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Eh?"
+                }
+            ]
+        },
+        "Session-90": {
+            "Session": "Session-90",
+            "Chapter": "Book4-chapter16",
+            "Scene": "Dumbledore welcomes the foreign students to Hogwarts and invites them to enjoy the feast",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "No one’s making you stay!"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "What?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Bouillabaisse,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Bless you,"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "It’s French, I had it on holiday summer before last. It’s very nice."
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "I’ll take your word for it,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Skrewts doing all right, Hagrid?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Yeah, I’ll just bet they are, Looks like they’ve finally found a food they like, doesn’t it? Hagrid’s fingers."
+                }
+            ]
+        },
+        "Session-91": {
+            "Session": "Session-91",
+            "Chapter": "Book4-chapter16",
+            "Scene": "During the Triwizard Tournament feast, Ron becomes infatuated with a girl from Beauxbatons who serves him bouillabaisse",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Yeah, have it,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Yeah, Yeah, it was excellent. She’s a veela!"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Of course she isn’t! I don’t see anyone else gaping at her like an idiot!"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "I’m telling you, that’s not a normal girl! They don’t make them like that at Hogwarts!"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "They make them okay at Hogwarts,"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "When you’ve both put your eyes back in, you’ll be able to see who’s just arrived."
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "What?"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "They organized the Triwizard Tournament, didn’t they? I suppose they wanted to be here to see it start."
+                }
+            ]
+        },
+        "Session-92": {
+            "Session": "Session-92",
+            "Chapter": "Book4-chapter17",
+            "Scene": "In chapter 17 of Book 4, Harry denies putting his name in the Goblet of Fire, but both Dumbledore and Professor McGonagall don't believe him",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "I didn’t put my name in, You know I didn’t."
+                }
+            ]
+        },
+        "Session-93": {
+            "Session": "Session-93",
+            "Chapter": "Book4-chapter17",
+            "Scene": "Harry enters the Gryffindor common room to find Ron lying on the bed, grinning in a strange way",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Where’ve you been?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Oh hello, So, Congratulations."
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "What d’you mean, congratulations?"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "No, Not even Fred and George. What did you use — the Invisibility Cloak?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "The Invisibility Cloak wouldn’t have got me over that line,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Oh right, I thought you might’ve told me if it was the Cloak . . . because it would’ve covered both of us, wouldn’t it? But you found another way, did you?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Listen, I didn’t put my name in that goblet. Someone else must’ve done it."
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "What would they do that for?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "I dunno, To kill me."
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "If you don’t want everyone else to know, fine, but I don’t know why you’re bothering to lie, you didn’t get into trouble for it, did you? That friend of the Fat Lady’s, that Violet, she’s already told us all Dumbledore’s letting you enter. A thousand Galleons prize money, eh? And you don’t have to do end-of-year tests either. . . ."
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "I didn’t put my name in that goblet!"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Yeah, okay, Only you said this morning you’d have done it last night, and no one would’ve seen you. . . . I’m not stupid, you know."
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "You’re doing a really good impression of it,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Don’t you? You want to get to bed, Harry. I expect you’ll need to be up early tomorrow for a photo-call or something."
+                }
+            ]
+        },
+        "Session-94": {
+            "Session": "Session-94",
+            "Chapter": "Book4-chapter18",
+            "Scene": "Malfoy taunts Harry about the Triwizard Tournament, but is distracted when Hagrid introduces the class to the Blast-Ended Skrewts",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "One of the champions,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "You believe I didn’t do it, then?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Wish I knew who did do it,"
+                }
+            ]
+        },
+        "Session-95": {
+            "Session": "Session-95",
+            "Chapter": "Book4-chapter19",
+            "Scene": "Harry and Hermione are discussing the upcoming first task of the Triwizard Tournament when they are interrupted by the arrival of Rita Skeeter and her photographer",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Don’t move your lips so much then."
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Come on, please just take off your Cloak for a bit, no one’s going to bother you here."
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Oh yeah? Look behind you. She’s staying in the village. I bet she’s coming to watch the first task."
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "She’s gone, You don’t have to talk to Ron!"
+                }
+            ]
+        },
+        "Session-96": {
+            "Session": "Session-96",
+            "Chapter": "Book4-chapter20",
+            "Scene": "In this scene, Harry is in Moody's office, which is full of odd objects",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "What?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "And what’s the mirror for?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "I didn’t cheat, It was — a sort of accident that I found out."
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "No,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "I haven’t got any,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Quidditch,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Yeah, but . . . I’m not allowed a broom, I’ve only got my wand —"
+                }
+            ]
+        },
+        "Session-97": {
+            "Session": "Session-97",
+            "Chapter": "Book4-chapter21",
+            "Scene": "Harry, Ron, and Hermione discuss the events of the first task of the Triwizard Tournament",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Fits, doesn’t it? Remember what Malfoy said on the train, about his dad being friends with Karkaroff? Now we know where they knew each other. They were probably running around in masks together at the World Cup. . . . I’ll tell you one thing, though, Harry, if it was Karkaroff who put your name in the goblet, he’s going to be feeling really stupid now, isn’t he? Didn’t work, did it? You only got a scratch! Come here — I’ll do it — There’s no way any of the other tasks are going to be that dangerous, how could they be? You know what? I reckon you could win this tournament, Harry, I’m serious."
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "Harry’s got a long way to go before he finishes this tournament, If that was the first task, I hate to think what’s coming next."
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Right little ray of sunshine, aren’t you? You and Professor Trelawney should get together sometime. Well, we’d better get downstairs for your surprise party, Harry — Fred and George should have nicked enough food from the kitchens by now."
+                }
+            ]
+        },
+        "Session-98": {
+            "Session": "Session-98",
+            "Chapter": "Book4-chapter21",
+            "Scene": "The Fat Lady is irritated when Ron, Hermione, and Harry leave",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Oh hang on . . . Wait a minute, Hermione. . . ."
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "What?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "I know what this is about,"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Hermione! You’re trying to rope us into that spew stuff again!"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "No, no, I’m not! And it’s not spew, Ron —"
+                },
+                {
+                    "Character": "Ron",
+                    "Dialogue": "Changed the name, have you? I’m not barging into that kitchen and trying to make them stop work, I’m not doing it —"
+                },
+                {
+                    "Character": "Hermione",
+                    "Dialogue": "I’m not asking you to! I came down here just now, to talk to them all, and I found — oh come on, Harry, I want to show you!"
+                }
+            ]
+        },
+        "Session-99": {
+            "Session": "Session-99",
+            "Chapter": "Book4-chapter22",
+            "Scene": "In this scene, Professor McGonagall informs Harry that he needs to find a dance partner for the Yule Ball as part of his duties as a Hogwarts champion",
+            "Scene_Tags": [
+                "Magic",
+                "Adventure"
+            ],
+            "Dialogue": [
+                {
+                    "Character": "Harry",
+                    "Dialogue": "What partners?"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "Dance partners? I don’t dance,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "I don’t dance,"
+                },
+                {
+                    "Character": "Harry",
+                    "Dialogue": "But — I don’t —"
+                }
+            ]
+        }
+    },
+
+    {
+        "Session": "Session-100",
+        "Chapter": "Book4-chapter22",
+        "Scene": "Harry and Ron discuss Harry's difficulty in asking a girl out because they always seem to be in grou",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Why do they have to move in packs? How’re you supposed to get one on their own to ask them?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Lasso one? Got any idea who you’re going to try? Listen, you’re not going to have any trouble. You’re a champion. You’ve just beaten a Hungarian Horntail. I bet they’ll be queuing up to go with you."
+            }
+        ]
+    },
+    {
+        "Session": "Session-101",
+        "Chapter": "Book4-chapter23",
+        "Scene": "Harry and Ron are leaving Hagrid's hut when Ron suddenly stops and whispers to Harry, asking if he k",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "C’mon, Let’s go. . . . What’s up?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Did you know? About Hagrid being half-giant?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "So what? So what?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "I’ll explain inside, c’mon. . . ."
+            }
+        ]
+    },
+    {
+        "Session": "Session-102",
+        "Chapter": "Book4-chapter23",
+        "Scene": "Cedric Diggory approaches Harry and thanks him for telling him about the dragons. He then advises Ha",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Yeah?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Yeah,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "What?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-103",
+        "Chapter": "Book4-chapter26",
+        "Scene": "Hagrid teaches the class about unicorns and allows them to pat the baby unicorns. Harry is nervous, ",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Yeah,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Bit,"
+            }
+        ]
+    },
+    {
+        "Session": "Session-104",
+        "Chapter": "Book4-chapter28",
+        "Scene": "In this scene, Hermione reveals that she has subscribed to the Daily Prophet to stay informed. Howev",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "Percy won’t’ve had time to answer yet, We only sent Hedwig yesterday."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "No, it’s not that, I’ve taken out a subscription to the Daily Prophet. I’m getting sick of finding everything out from the Slytherins."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Good thinking! Hey, Hermione, I think you’re in luck —"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "It hasn’t got a newspaper, though,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "How many subscriptions did you take out?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "What on earth — ? Oh really!"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "What’s up?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "It’s — oh how ridiculous — They’re all like it!"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Undiluted bubotuber pus!"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Ow!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "You’d better get up to the hospital wing, We’ll tell Professor Sprout where you’ve gone. . . ."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "I warned her! Look at this one . . . ’ Blimey, she’d better watch out for herself."
+            }
+        ]
+    },
+    {
+        "Session": "Session-105",
+        "Chapter": "Book4-chapter28",
+        "Scene": "Harry tries to enter Dumbledore's office using the old password, but the gargoyle doesn't move. Snap",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Lem — lemon drop! Move! C’mon!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I need to see Professor Dumbledore! It’s Mr. Crouch . . . he’s just turned up . . . he’s in the forest . . . he’s asking —"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "From the Ministry! He’s ill or something — he’s in the forest, he wants to see Dumbledore! Just give me the password up to —"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Dumbledore!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Look,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Professor! Mr. Crouch is here — he’s down in the forest, he wants to speak to you!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "He’s not acting normally, He doesn’t seem to know where he is."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "No, Krum and I were talking, Mr. Bagman had just finished telling us about the third task, we stayed behind, and then we saw Mr. Crouch coming out of the forest —"
+            }
+        ]
+    },
+    {
+        "Session": "Session-106",
+        "Chapter": "Book5-chapter1",
+        "Scene": "In this scene, Harry and Dudley are arguing about Harry's wand. Dudley tries to insult Harry by brin",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "How long have you been ‘Big D’ then? But you’ll always be Ickle Diddykins to me. You don’t tell her to shut her face. What about ‘popkin’ and ‘Dinky Diddydums,’ can I use them then?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "What thing?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Whereas you just need four mates behind you before you can beat up a ten-year-old."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "This is night, Diddykins."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I —"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Don’t ever talk about that again,"
+            }
+        ]
+    },
+    {
+        "Session": "Session-107",
+        "Chapter": "Book5-chapter1",
+        "Scene": "After a sudden return to normality, Harry realizes that he is drenched in sweat and Dudley is lying ",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "THIS WAY! DUDLEY? DUDLEY!"
+            }
+        ]
+    },
+    {
+        "Session": "Session-108",
+        "Chapter": "Book5-chapter2",
+        "Scene": "Harry gives Aunt Petunia a Howler, but Uncle Vernon tries to stop her from opening it. When Aunt Pet",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "You can open it if you like, but I’ll hear what it says anyway. That’s a Howler. It’ll happen anyway —"
+            }
+        ]
+    },
+    {
+        "Session": "Session-109",
+        "Chapter": "Book5-chapter7",
+        "Scene": "Mr. Weasley and Harry rush to the Ministry of Magic for an urgent matter, but they are running late ",
+        "Scene_Tags": [
+            "Crisis Situation"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Aren’t — aren’t you coming with — ?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-110",
+        "Chapter": "Book5-chapter12",
+        "Scene": "Harry, Ron, and Hermione are walking down a staircase lined with portraits of old witches and wizard",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Hermione",
+                "Dialogue": "Anyway, what’s up, Harry? You look really angry about something."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Seamus reckons Harry’s lying about You-Know-Who,"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Yes, Lavender thinks so too,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Been having a nice little chat with her about whether or not I’m a lying, attention-seeking prat, have you?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "No, I told her to keep her big fat mouth shut about you, actually. And it would be quite nice if you stopped jumping down Ron’s and my throats, Harry, because if you haven’t noticed, we’re on your side."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Sorry,"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "That’s quite all right, Don’t you remember what Dumbledore said at the end-of-term feast last year? About You-Know-Who."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "How do you remember stuff like that?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "I listen, Ron,"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "So do I, but I still couldn’t tell you exactly what —"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "The point, is that this sort of thing is exactly what Dumbledore was talking about. You-Know-Who’s only been back two months, and we’ve started fighting among ourselves."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "And Harry said it last night, if that means we’re supposed to get matey with the Slytherins, fat chance."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Well, I think it’s a pity we’re not trying for a bit of inter-House unity,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Yeah, we really ought to be trying to make friends with people like that, Dumbledore didn’t even mention how long that Grubbly-Plank woman’s staying,"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Maybe . . ."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Well . . . maybe he didn’t want to draw attention to Hagrid not being here."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "How could we not notice?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Hi, Angelina. Hi,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Nice one,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Okay,"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "I’d forgotten Wood had left, I suppose that will make quite a difference to the team?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I s’pose, He was a good Keeper . . ."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Still, it won’t hurt to have some new blood, will it?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-111",
+        "Chapter": "Book5-chapter13",
+        "Scene": "In this scene, Harry, Ron, and Hermione are discussing the recent claims made by a student named Lun",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "What I don’t get, is why they all believed the story two months ago when Dumbledore told them . . ."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "The thing is, Harry, I’m not sure they did, Oh, let’s get out of here."
+            }
+        ]
+    },
+    {
+        "Session": "Session-112",
+        "Chapter": "Book5-chapter13",
+        "Scene": "Harry and Hermione discuss whether people believe that Voldemort has returned. Hermione explains tha",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "What d’you mean, you’re not sure they believed Dumbledore?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Look, you don’t understand what it was like after it happened, You arrived back in the middle of the lawn clutching Cedric’s dead body. . . . None of us saw what happened in the maze. . . . We just had Dumbledore’s word for it that You-Know-Who had come back and killed Cedric and fought you."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Which is the truth!"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "I know it is, Harry, so will you please stop biting my head off?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-113",
+        "Chapter": "Book5-chapter13",
+        "Scene": "Harry is in a hurry to get to dinner before his detention with Umbridge, but is stopped by Angelina ",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "What now?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "What? Why . . . oh yeah, Keeper tryouts!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I didn’t decide not to be there! I got detention from that Umbridge woman, just because I told her the truth about You-Know-Who —"
+            }
+        ]
+    },
+    {
+        "Session": "Session-115",
+        "Chapter": "Book5-chapter14",
+        "Scene": "Harry walks to the Owlery to send a letter to Sirius via Hedwig. He sees a winged horse and is start",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Yeah, ’bye, I’m not doing anything wrong, There you are, Get down here, I’ve got a letter for you. Right, I know this says ‘Snuffles’ on the outside, but it’s for Sirius, okay? Safe flight, then, Hi, Hi,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Nice day,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "No,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Yeah, It’s my friend Ron Weasley, d’you know him?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Yeah, I think so. I didn’t see his tryout, though, I was in detention."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Who told you I was ordering Dungbombs?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I can’t, it’s gone. Gone,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Gone, Gone, Gone,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Thanks,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "No,"
+            }
+        ]
+    },
+    {
+        "Session": "Session-116",
+        "Chapter": "Book5-chapter16",
+        "Scene": "Hermione, Harry, and Ron are walking down the High Street when Hermione stops to buy a new quill fro",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Hermione",
+                "Dialogue": "They met at the Yule Ball and they got together at the end of last year, Hmm . . . I could do with a new quill."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Which one was Michael Corner?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "The dark one,"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "I didn’t like him,"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Big surprise,"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "But, I thought Ginny fancied Harry!"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Ginny used to fancy Harry, but she gave up on him months ago. Not that she doesn’t like you, of course,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "So that’s why she talks now? She never used to talk in front of me."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Exactly, Yes, I think I’ll have this one . . .  this is exactly why Ginny hasn’t told you she’s seeing Michael, she knew you’d take it badly. So don’t harp on about it, for heaven’s sake."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "What d’you mean, who’s taking anything badly? I’m not going to harp on about anything . . ."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "And talking about Michael and Ginny . . . what about Cho and you?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "What d’you mean?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Well, she just couldn’t keep her eyes off you, could she?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-117",
+        "Chapter": "Book5-chapter17",
+        "Scene": "In this scene, Harry, Ron, and Hermione are discussing the recent educational decree that bans all s",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "It’s okay,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "What? What?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "No way,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Okay, okay, Don’t worry, I’ll behave myself . . ."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Bet Umbridge is in History of Magic, She hasn’t inspected Binns yet. . . . Bet you anything she’s there . . ."
+            }
+        ]
+    },
+    {
+        "Session": "Session-118",
+        "Chapter": "Book5-chapter21",
+        "Scene": "Ron and Hermione's prefect duties become more demanding as Christmas approaches, including supervisi",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "You try putting up tinsel when Peeves has got the other end and is trying to strangle you with it, And they’re cheeky little snotrags, you know, we definitely weren’t that rude when we were in first year, He’s got dung for brains, that one,"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "All those poor elves I haven’t set free yet, having to stay over during Christmas because there aren’t enough hats!"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "But you’re coming too! Didn’t I say? Mum wrote and told me to invite you weeks ago!"
+            }
+        ]
+    },
+    {
+        "Session": "Session-119",
+        "Chapter": "Book5-chapter21",
+        "Scene": "Harry stays behind in the common room hoping to receive a Merry Christmas from Cho. When they are al",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Wha — ? What’s up?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "He was really good at it, or he could never have got to the middle of that maze. But if Voldemort really wants to kill you, you don’t stand a chance."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Yeah, well, I dunno why, nor does anyone else, so it’s nothing to be proud of."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Thanks,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Yeah, It’s probably full of nargles, though."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "No idea, You’d have to ask Loony. Luna, I mean."
+            }
+        ]
+    },
+    {
+        "Session": "Session-120",
+        "Chapter": "Book5-chapter22",
+        "Scene": "Harry and Tonks are sitting together on a train, and Tonks asks Harry if there is any Seer blood in ",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "No,"
+            }
+        ]
+    },
+    {
+        "Session": "Session-121",
+        "Chapter": "Book5-chapter23",
+        "Scene": "Harry is on the Hogwarts Express with Ron, Hermione, and Ginny, when he overhears a conversation bet",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "What’s he after apart from followers?  Stuff he can only get by stealth . . . like a weapon. Something he didn’t have last time."
+            }
+        ]
+    },
+    {
+        "Session": "Session-122",
+        "Chapter": "Book5-chapter24",
+        "Scene": "Harry experiences excruciating pain and loses consciousness, only to wake up to maniacal laughter co",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "Harry? HARRY! What happened?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I . . . dunno . . . He’s really happy . . . really happy . . ."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "You-Know-Who is?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Something good’s happened, Something he’s been hoping for."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Hermione told me to come and check on you, She says your defenses will be low at the moment, after Snape’s been fiddling around with your mind. . . . Still, I suppose it’ll help in the long run, won’t it?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-123",
+        "Chapter": "Book6-chapter4",
+        "Scene": "In this scene, Dumbledore and Harry are preparing to leave Privet Drive. Dumbledore tells Harry that",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "But I thought I’m not allowed to use magic outside school, sir?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Why not, sir?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "No, I thought you had to be seventeen?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-124",
+        "Chapter": "Book6-chapter4",
+        "Scene": "Dumbledore asks Harry if he has been reading the Daily Prophet and if he knows about the leaks regar",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Yes,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Yes,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "No,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I didn’t want —"
+            }
+        ]
+    },
+    {
+        "Session": "Session-125",
+        "Chapter": "Book6-chapter5",
+        "Scene": "Harry arrives at the Burrow and is greeted by Mrs. Weasley, who comments on his and Ron's growth. Sh",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Yeah, I am, So Hermione’s here?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Thanks, Mrs. Weasley."
+            }
+        ]
+    },
+    {
+        "Session": "Session-126",
+        "Chapter": "Book6-chapter6",
+        "Scene": "In this scene, Verity informs Fred and George that a customer is looking for a joke cauldron. George",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": ""
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "But —"
+            }
+        ]
+    },
+    {
+        "Session": "Session-127",
+        "Chapter": "Book6-chapter6",
+        "Scene": "Harry, Ron, and Hermione are discussing the whereabouts of a young boy they saw in Knockturn Alley. ",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Wonder where his mummy is?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Given her the slip by the looks of it,"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Why, though?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-128",
+        "Chapter": "Book6-chapter8",
+        "Scene": "In this scene, Ron and Harry are discussing their class schedules and confirm that neither of them a",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "You’re not taking Care of Magical Creatures, are you?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "And you’re not either, are you? And Hermione, she’s not, is she?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-129",
+        "Chapter": "Book6-chapter11",
+        "Scene": "Hermione reads from the Daily Prophet that Stan Shunpike, the conductor of the Knight Bus, has been ",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "Anyone we know dead?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "No, but there have been more dementor attacks, And an arrest."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Excellent, who?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Stan Shunpike,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "What? Stan Shunpike, a Death Eater? No way!"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "He might have been put under the Imperius Curse, You never can tell."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "It doesn’t look like it, It says here he was arrested after he was overheard talking about the Death Eaters’ secret plans in a pub. If he was under the Imperius Curse, he’d hardly stand around gossiping about their plans, would he?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "It sounds like he was trying to make out he knew more than he did, Isn’t he the one who claimed he was going to become Minister of Magic when he was trying to chat up those veela?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Yeah, that’s him, I dunno what they’re playing at, taking Stan seriously."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "They probably want to look as though they’re doing something, People are terrified — you know the Patil twins’ parents want them to go home? And Eloise Midgen has already been withdrawn. Her father picked her up last night."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "What! But Hogwarts is safer than their homes, bound to be! We’ve got Aurors, and all those extra protective spells, and we’ve got Dumbledore!"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "I don’t think we’ve got him all the time, Haven’t you noticed? His seat’s been empty as often as Hagrid’s this past week. I think he’s left the school to do something with the Order, I mean . . . it’s all looking serious, isn’t it?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-131",
+        "Chapter": "Book6-chapter16",
+        "Scene": "Harry tells Mr. Weasley about what he overheard between Malfoy and Snape. Lupin and Mr. Weasley sugg",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "No problem, Has it been busy at the Ministry?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "They’re not still holding Stan Shunpike, are they?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I won’t say anything, Mr. Weasley, you know what I told you at the station when we were setting off for school?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Yeah, I know, I saw in the Prophet that you’d looked . . . but this is something different. . . . Well, something more . . .  Yeah, I thought you’d say that. But how do we know?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "But,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "do you honestly like Snape?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "But he ‘accidentally’ let it slip that you’re a werewolf, so you had to leave!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Maybe he didn’t dare mess with the potion with Dumbledore watching him!"
+            }
+        ]
+    },
+    {
+        "Session": "Session-132",
+        "Chapter": "Book6-chapter17",
+        "Scene": "Dumbledore continues his tale of Tom Riddle, explaining how he was placed in Slytherin House and qui",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Didn’t you tell them, sir, what he’d been like when you met him at the orphanage?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "But you didn’t really trust him, sir, did you? He told me .. . the Riddle who came out of that diary said, ‘Dumbledore never seemed to like me as much as the other teachers did. ’"
+            }
+        ]
+    },
+    {
+        "Session": "Session-133",
+        "Chapter": "Book6-chapter18",
+        "Scene": "In chapter 18 of book 6, Harry asks Slughorn about Horcruxes. Slughorn becomes terrified and denies ",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Sir,I wanted to ask you something."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Sir, I wondered what you know about . . . about Horcruxes?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I asked whether you know anything about Horcruxes, sir."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Yes,"
+            }
+        ]
+    },
+    {
+        "Session": "Session-134",
+        "Chapter": "Book6-chapter19",
+        "Scene": "In chapter 19 of Book 6, Harry confronts Malfoy and demands to know where he is going. Malfoy refuse",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Where’re you going?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-136",
+        "Chapter": "Book7-chapter4",
+        "Scene": "Harry takes a last look at his childhood home, reminiscing about the good times and showing Hedwig w",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Don’t you want to take a last look at the place? We’ll never be here again. Don’t you want to remember all the good times? I mean, look at this doormat.  What memories .. . Dudley puked on it after I saved him from the dementors. . . . Turns out he was grateful after all, can you believe it? . . . And last summer, Dumbledore walked through that front door. . . . And under here, Hedwig is where I used to sleep! You never knew me then — Blimey, it’s small, I’d forgotten. . . ."
+            }
+        ]
+    },
+    {
+        "Session": "Session-137",
+        "Chapter": "Book7-chapter5",
+        "Scene": "In this scene, Harry has a vision of Voldemort torturing Ollivander for information about why a diff",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "Harry? Harry?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Harry, come back in the house, You aren’t still thinking of leaving?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Yeah,"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Are you all right? You look awful!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Well,"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "But it was supposed to have stopped! Your scar — it wasn’t supposed to do this anymore! You mustn’t let that connection open up again — Dumbledore wanted you to close your mind! Harry, he’s taking over the Ministry and the newspapers and half the Wizarding world! Don’t let him inside your head too!"
+            }
+        ]
+    },
+    {
+        "Session": "Session-138",
+        "Chapter": "Book7-chapter6",
+        "Scene": "Fleur suggests disguising Harry for the wedding to prevent any Death Eaters from getting information",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "Why? Why does my room have to be cleaned out? Harry and I are fine with it the way it is!"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "And are they getting married in my bedroom? No! So why in the name of Merlin’s saggy left —"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I can help, some of it’s my mess,"
+            }
+        ]
+    },
+    {
+        "Session": "Session-139",
+        "Chapter": "Book7-chapter8",
+        "Scene": "In this scene from Chapter 8 of Book 7, Krum points out Ginny's good looks and asks if she is relate",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Yeah, and she’s seeing someone. Jealous type.Big bloke. You wouldn’t want to cross him."
+            }
+        ]
+    },
+    {
+        "Session": "Session-140",
+        "Chapter": "Book7-chapter10",
+        "Scene": "Harry is found by Hermione after disappearing and searching for his mother's letter. They discuss th",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Hermione",
+                "Dialogue": "Harry? Harry! Harry!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I’m here! What’s happened?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "We woke up and didn’t know where you were! Ron! I’ve found him! RON!"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Good! Tell him from me he’s a git!"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Harry, don’t just disappear, please, we were terrified! Why did you come up here anyway? What have you been doing?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Look what I’ve just found."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Oh, Harry . . ."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "And there’s this too. I’ve been looking for the rest of the letter, but it’s not here."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Did you make all this mess, or was some of it done when you got here?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Someone had searched before me,"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "I thought so. Every room I looked into on the way up had been disturbed. What were they after, do you think?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Information on the Order, if it was Snape."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "But you’d think he’d already have all he needed, I mean, he was in the Order, wasn’t he?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Well then, what about information on Dumbledore? The second page of this letter, for instance. You know this Bathilda my mum mentions, you know who she is?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Who?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Bathilda Bagshot, the author of —"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "A History of Magic, So your parents knew her? She was an incredible magical historian."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "And she’s still alive, and she lives in Godric’s Hollow, Ron’s Auntie Muriel was talking about her at the wedding.She knew Dumbledore’s family too. Be pretty interesting to talk to, wouldn’t she?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "I understand why you’d love to talk to her about your mum and dad, and Dumbledore too, But that wouldn’t really help us in our search for the Horcruxes, would it? Harry, I know you really want to go to Godric’s Hollow, but I’m scared, I’m scared at how easily those Death Eaters found us yesterday. It just makes me feel more than ever that we ought to avoid the place where your parents are buried, I’m sure they’d be expecting you to visit it."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "It’s not just that, Muriel said stuff about Dumbledore at the wedding. I want to know the truth. . . ."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Of course, I can see why that’s upset you, Harry —"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I’m not upset,"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Harry, do you really think you’ll get the truth from a malicious old woman like Muriel, or from Rita Skeeter? How can you believe them? You knew Dumbledore!  Shall we go down to the kitchen? Find something for breakfast?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-141",
+        "Chapter": "Book7-chapter12",
+        "Scene": "Harry has a vision of Voldemort murdering a woman and her family. Hermione and Ron burst into the ba",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Hermione",
+                "Dialogue": "Harry! HARRY! Harry, open up! What"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "What"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "You were yelling your head off!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Oh yeah . . . I must’ve dozed off or —"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Harry, please don’t insult our intelligence, We know your scar hurt downstairs, and you’re white as a sheet."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Fine. By now he’s probably killed her whole family. And he didn’t need to. It was Cedric all over again, they were just there. . . ."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Harry! HARRY! Dumbledore wanted you to use Occlumency! He thought the connection was dangerous — Voldemort can use it, Harry! What good is it to watch him kill and torture, how can it help?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Because it means I know what he’s doing,"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "So you’re not even going to try to shut him out?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Hermione, I can’t. You know I’m lousy at Occlumency, I never got the hang of it."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "You never really tried! I don’t get it, Harry — do you like having this special connection or relationship or what — whatever —"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Like it? Would you like it?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "I — no — I’m sorry, Harry, I didn’t mean —"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I hate it, I hate the fact that he can get inside me, that I have to watch him when he’s most dangerous. But I’m going to use it."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Dumbledore —"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Forget Dumbledore. This is my choice, nobody else’s. I want to know why he’s after Gregorovitch."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Who?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "He’s a foreign wandmaker, He made Krum’s wand and Krum reckons he’s brilliant."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "But according to you, Voldemort’s got Ollivander locked up somewhere. If he’s already got a wandmaker, what does he need another one for?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Harry, you keep talking about what your wand did, but you made it happen! Why are you so determined not to take responsibility for your own power?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Because I know it wasn’t me! And so does Voldemort, Hermione! We both know what really happened!"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Drop it, It’s up to him. And if we’re going to the Ministry tomorrow, don’t you reckon we should go over the plan?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-142",
+        "Chapter": "Book7-chapter19",
+        "Scene": "Hermione and Harry decide to move to a more sheltered location as Hermione is feeling uneasy due to ",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Hermione",
+                "Dialogue": "We’ll go somewhere more sheltered, I kept thinking I could hear people moving outside. I even thought I saw somebody once or twice. I’m sure I imagined it, The snow in the dark, it plays tricks on your eyes. . . . But perhaps we ought to Disapparate under the Invisibility Cloak, just in case?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-143",
+        "Chapter": "Book7-chapter20",
+        "Scene": "Hermione, Ron, and Harry discuss Xenophilius Lovegood's hypocrisy and the danger of being associated",
+        "Scene_Tags": [
+            "Crisis Situation"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Well, it’s about that symbol you were wearing around your neck at Bill and Fleur’s wedding, Mr. Lovegood. We wondered what it meant."
+            }
+        ]
+    },
+    {
+        "Session": "Session-144",
+        "Chapter": "Book7-chapter21",
+        "Scene": "Harry, Ron, and Hermione discuss the three Deathly Hallows and which one they would choose. Hermione",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "Probably to show the Poisoning Department at St. Mungo’s,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "What do you think?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Oh, Harry, it’s a pile of utter rubbish. This can’t be what the sign really means. This must just be his weird take on it. What a waste of time."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "I s’pose this is the man who brought us Crumple-Horned Snorkacks,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "You don’t believe it either?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Nah, that story’s just one of those things you tell kids to teach them lessons, isn’t it? ‘Don’t go looking for trouble, don’t pick fights, don’t go messing around with stuff that’s best left alone! Just keep your head down, mind your own business, and you’ll be okay. ’ Come to think of it, maybe that story’s why elder wands are supposed to be unlucky."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "What are you talking about?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "One of those superstitions, isn’t it? ‘May-born witches will marry Muggles. ’ ‘Jinx by twilight, undone by midnight. ’ ‘Wand of elder, never prosper. ’ You must’ve heard them. My mum’s full of them."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Harry and I were raised by Muggles, We were taught different superstitions. I think you’re right, It’s just a morality tale, it’s obvious which gift is best, which one you’d choose — the Cloak, the Cloak, the Cloak, the Cloak, the Cloak, the Cloak, the Cloak, the Cloak, the Cloak, the Cloak,"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "the wand, the wand,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "the stone."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "You’re supposed to say the Cloak, but you wouldn’t need to be invisible if you had the wand. An unbeatable wand, Hermione, come on!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "We’ve already got an Invisibility Cloak,"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "And it’s helped us rather a lot, in case you hadn’t noticed!"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Only if you shouted about it, Only if you were prat enough to go dancing around, waving it over your head, and singing, ‘I’ve got an unbeatable wand, come and have a go if you think you’re hard enough. ’ As long as you kept your trap shut —"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Yes, but could you keep your trap shut? You know, the only true thing he said to us was that there have been stories about extra-powerful wands for hundreds of years."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "There have?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "The Deathstick, the Wand of Destiny, they crop up under different names through the centuries, usually in the possession of some Dark wizard who’s boasting about them. Professor Binns mentioned some of them, but — oh, it’s all nonsense. Wands are only as powerful as the wizards who use them. Some wizards just like to boast that theirs are bigger and better than other people’s."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "But how do you know, that those wands — the Deathstick and the Wand of Destiny — aren’t the same wand, surfacing over the centuries under different names?"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "What, and they’re all really the Elder Wand, made by Death? So why would you take the stone?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Well, if you could bring people back, we could have Sirius . . . Mad-Eye . . . Dumbledore . . . my parents. . . . But according to Beedle the Bard, they wouldn’t want to come back, would they? I don’t suppose there have been loads of other stories about a stone that can raise the dead, have there?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "No, I don’t think anyone except Mr. Lovegood could kid themselves that’s possible. Beedle probably took the idea from the Sorcerer’s Stone; you know, instead of a stone to make you immortal, a stone to reverse death."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "What about the Cloak, though? Don’t you realize, he’s right? I’ve got so used to Harry’s Cloak and how good it is, I never stopped to think. I’ve never heard of one like Harry’s. It’s infallible. We’ve never been spotted under it —"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Of course not — we’re invisible when we’re under it, Ron!"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "But all the stuff he said about other cloaks, and they’re not exactly ten a Knut, you know, is true! It’s never occurred to me before, but I’ve heard stuff about charms wearing off cloaks when they get old, or them being ripped apart by spells so they’ve got holes in. Harry’s was owned by his dad, so it’s not exactly new, is it, but it’s just . . . perfect!"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Yes, all right, but Ron, the stone . . . Harry, what are you doing? I don’t think you should look around when he’s not here!"
+            }
+        ]
+    },
+    {
+        "Session": "Session-145",
+        "Chapter": "Book7-chapter22",
+        "Scene": "In this scene, Hermione criticizes Harry for his lack of interest in locating more Horcruxes, and Ha",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Hermione",
+                "Dialogue": "Obsession? We’re not the ones with an obsession, Harry! We’re the ones trying to do what Dumbledore wanted us to do! I thought it was You-Know-Who we were supposed to be fighting?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-146",
+        "Chapter": "Book7-chapter25",
+        "Scene": "Harry spends time at Bill and Fleur's cottage, feeling scared and full of doubts about his decision ",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Ron",
+                "Dialogue": "What if Dumbledore wanted us to work out the symbol in time to get the wand? What if working out what the symbol meant made you ‘worthy’ to get the Hallows? Harry, if that really is the Elder Wand, how the hell are we supposed to finish off You-Know-Who?"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "You could never have done that, Harry, You couldn’t have broken into Dumbledore’s grave."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "But is he dead? Look at the facts, Hermione, The silver doe."
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Harry admits he could have imagined the eye! Don’t you, Harry?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I could have,"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "But you don’t think you did, do you?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "No, I don’t,"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "There you go! If it wasn’t Dumbledore, explain how Dobby knew we were in the cellar, Hermione? I dunno, it could’ve been his ghost!"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Dumbledore wouldn’t come back as a ghost, He would have gone on."
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "What d’you mean, ‘gone on’?"
+            }
+        ]
+    },
+    {
+        "Session": "Session-147",
+        "Chapter": "Book7-chapter28",
+        "Scene": "Aberforth, Harry, Ron, and Hermione discuss how to get out of Hogsmeade without being caught. Aberfo",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "We’re not leaving, We need to get into Hogwarts."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "We’ve got to,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "You don’t understand. There isn’t much time. We’ve got to get into the castle. Dumbledore — I mean, your brother — wanted us —"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "You don’t understand."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I didn’t mean that, It’s . . . he left me a job."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I-it’s not easy, no,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I can’t."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "But you’re fighting too, you’re in the Order of the Phoenix —"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I can’t leave,"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "I can’t. It’s got to be me, Dumbledore explained it all —"
+            }
+        ]
+    },
+    {
+        "Session": "Session-148",
+        "Chapter": "Book7-chapter32",
+        "Scene": "Harry, Ron, and Hermione are under attack by Death Eaters and giant spiders. They try to move Fred's",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Get down! Percy, come on, we’ve got to move!"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "Percy! Percy, you can’t do anything for him! We’re going to —"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "It brought friends! Let’s move, NOW! Here,"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Harry, in here! Listen to me — LISTEN, RON!"
+            },
+            {
+                "Character": "Ron",
+                "Dialogue": "I wanna help — I wanna kill Death Eaters —"
+            },
+            {
+                "Character": "Hermione",
+                "Dialogue": "Ron, we’re the only ones who can end it! Please — Ron — we need the snake, we’ve got to kill the snake! We will fight! We’ll have to, to reach the snake! But let’s not lose sight now of what we’re supposed to be d-doing! We’re the only ones who can end it! You need to find out where Voldemort is, because he’ll have the snake with him, won’t he? Do it, Harry — look inside him!"
+            }
+        ]
+    },
+    {
+        "Session": "Session-149",
+        "Chapter": "Book7-chapter35",
+        "Scene": "In this scene, Harry and Dumbledore discuss the fact that Voldemort has the Elder Wand. Dumbledore s",
+        "Scene_Tags": [
+            "General"
+        ],
+        "Dialogue": [
+            {
+                "Character": "Harry",
+                "Dialogue": "Voldemort’s got the Elder Wand."
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "But you want me to go back?"
+            },
+            {
+                "Character": "Harry",
+                "Dialogue": "Tell me one last thing, Is this real? Or has this been happening inside my head?"
+            }
+        ]
+    }
+
+]
