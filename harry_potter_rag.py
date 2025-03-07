@@ -6,6 +6,7 @@ import numpy as np
 
 # 환경변수에서 Gemini 키 로드
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+model = genai.GenerativeModel("gemini-2.0-flash")
 
 # 임베딩 모델 및 FAISS 인덱스 로드 (사전 생성 필요)
 embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -26,7 +27,6 @@ def search_similar_scenes(query, top_k=5):
 def generate_response(character, role, question, retrieved_scenes):
     import google.generativeai as genai
     import os
-    genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
     prompt = f"""
     You are the character "{character}" from the Harry Potter universe.
