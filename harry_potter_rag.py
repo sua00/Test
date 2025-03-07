@@ -3,6 +3,10 @@ import google.generativeai as genai
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
+from dotenv import load_dotenv
+
+# .env 파일 읽기
+load_dotenv()
 
 # 환경변수에서 Gemini 키 로드
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
