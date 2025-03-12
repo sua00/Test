@@ -1,0 +1,551 @@
+[
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Neville charged at Malfoy in anger after Malfoy insulted his father and Harry, but Harry and Ron intervened to prevent a fight, resulting in Snape deducting points from Gryffindor.",
+        "question": "Describe your honest feelings when Neville charged at Malfoy in anger after Malfoy insulted his father and Harry, but Harry and Ron intervened to prevent a fight, resulting in Snape deducting points from Gryffindor.",
+        "question_period": "Book5-chapter17",
+        "character": "Hermione Granger",
+        "participants": "['Draco Malfoy', 'Hermione Granger', 'Harry Potter', 'Neville Longbottom', 'Severus Snape', 'Vincent Crabbe', 'Gregory Goyle', 'Pansy Parkinson']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry found it unusual that Draco Malfoy was not performing his duties as a prefect, suggesting that Malfoy might have more important concerns.",
+        "question": "Is it true that you were at the moment when Harry found it unusual that Draco Malfoy was not performing his duties as a prefect, suggesting that Malfoy might have more important concerns?",
+        "question_period": "Book6-chapter7",
+        "character": "Hermione Granger",
+        "participants": "['Ronald Weasley', 'Harry Potter', 'Hermione Granger', 'Luna Lovegood', 'Draco Malfoy']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry encountered Tonks on the seventh-floor corridor while he was unsuccessfully attempting to gain access to the Room of Requirement, and they discussed Dumbledore's absence and the rumors of people getting hurt.",
+        "question": "Did you truly see the moment when Harry encountered Tonks on the seventh-floor corridor while he was unsuccessfully attempting to gain access to the Room of Requirement, and they discussed Dumbledore's absence and the rumors of people getting hurt?",
+        "question_period": "Book6-chapter21",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Tonks', 'Gregory Goyle']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry, feeling slightly hurt that his friends were not around to inquire about his well-being, encountered a cheerful Percy who complimented his flying and informed him that Gryffindor was leading for the House Cup.",
+        "question": "What did you see as Harry, feeling slightly hurt that his friends were not around to inquire about his well-being, encountered a cheerful Percy who complimented his flying and informed him that Gryffindor was leading for the House Cup?",
+        "question_period": "Book2-chapter11",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Percy Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry, Hermione, and Ron struggled to open the locket Horcrux after retrieving it, and Harry felt a violent urge to fling it away before deciding to wear it for safekeeping.",
+        "question": "Is it true that you were at the moment when Harry, Hermione, and Ron struggled to open the locket Horcrux after retrieving it, and Harry felt a violent urge to fling it away before deciding to wear it for safekeeping?",
+        "question_period": "Book7-chapter14",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Ron made a joke about Uranus during Divination class, which led to Professor Trelawney assigning a large amount of homework as a consequence.",
+        "question": "What did you see as Ron made a joke about Uranus during Divination class, which led to Professor Trelawney assigning a large amount of homework as a consequence?",
+        "question_period": "Book4-chapter13",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Ronald Weasley', 'Lavender Brown', 'Professor Trelawney', 'Hermione Granger', 'Seamus Finnigan', 'Dean Thomas']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry surreptitiously added a substance to Ron's drink before a Quidditch match, which Hermione noticed and confronted him about, leading to a tense exchange.",
+        "question": "Describe your feelings when Harry surreptitiously added a substance to Ron's drink before a Quidditch match, which Hermione noticed and confronted him about, leading to a tense exchange.",
+        "question_period": "Book6-chapter14",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Ronald Weasley', 'Hermione Granger', 'Ginny Weasley', 'Demelza Robins', 'Draco Malfoy']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Fred and George Weasley demonstrated their Headless Hats, which made the wearer's head invisible, to the amusement of their fellow students, while Harry, feeling ill, struggled with his homework and disdain for his talking homework planner.",
+        "question": "Is it right that you were at the moment when Fred and George Weasley demonstrated their Headless Hats, which made the wearer's head invisible, to the amusement of their fellow students, while Harry, feeling ill, struggled with his homework and disdain for his talking homework planner?",
+        "question_period": "Book5-chapter24",
+        "character": "Hermione Granger",
+        "participants": "['George Weasley', 'Fred Weasley', 'Hermione Granger', 'Harry Potter']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Seamus Finnigan revealed to Harry that his mother did not want him to return to Hogwarts due to the negative stories about Harry and Dumbledore in the Daily Prophet.",
+        "question": "Did you see the moment when Seamus Finnigan revealed to Harry that his mother did not want him to return to Hogwarts due to the negative stories about Harry and Dumbledore in the Daily Prophet?",
+        "question_period": "Book5-chapter11",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Dean Thomas', 'Neville Longbottom', 'Seamus Finnigan', 'Fred Weasley', 'George Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "During a Quidditch match, Harry Potter reprimanded his substitute Keeper, Cormac McLaggen, for unsolicited advice and poor attention to his duties, which led to Hufflepuff scoring a goal.",
+        "question": "Tell me your genuine feelings when During a Quidditch match, Harry Potter reprimanded his substitute Keeper, Cormac McLaggen, for unsolicited advice and poor attention to his duties, which led to Hufflepuff scoring a goal.",
+        "question_period": "Book6-chapter19",
+        "character": "Hermione Granger",
+        "participants": "['Ginny Weasley', 'Harry Potter', 'Cormac McLaggen', 'Luna Lovegood', 'Professor Minerva McGonagall', 'Coote', 'Peakes', 'Madam Hooch', 'Cadwallader']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry learned about Sirius Black's escape from Azkaban and his past crimes while riding the Knight Bus, after inadvertently inflating his Aunt Marge.",
+        "question": "What did you see as Harry learned about Sirius Black's escape from Azkaban and his past crimes while riding the Knight Bus, after inadvertently inflating his Aunt Marge?",
+        "question_period": "Book3-chapter3",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Stan Shunpike', 'Ern', 'Madam Marsh']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry felt unnerved by the prospect of dancing with a much taller partner and questioned the genuine interest of girls who wanted to attend the ball with him due to his champion status.",
+        "question": "What did you see as Harry felt unnerved by the prospect of dancing with a much taller partner and questioned the genuine interest of girls who wanted to attend the ball with him due to his champion status?",
+        "question_period": "Book4-chapter22",
+        "character": "Hermione Granger",
+        "participants": "['Ronald Weasley', 'Harry Potter']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Aragog revealed to Harry that he was not the monster from the Chamber of Secrets and had never harmed a human, but he refused to name the creature and implied that his offspring would attack Harry and Ron.",
+        "question": "What did you actually see as Aragog revealed to Harry that he was not the monster from the Chamber of Secrets and had never harmed a human, but he refused to name the creature and implied that his offspring would attack Harry and Ron?",
+        "question_period": "Book2-chapter15",
+        "character": "Hermione Granger",
+        "participants": "['Aragog', 'Harry Potter', 'Ronald Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Malfoy expressed his disdain for Muggle-borns and his wish to assist the person behind the attacks at Hogwarts, unaware that he was speaking to Harry and Ron in disguise.",
+        "question": "Is it true that you were at the moment when Malfoy expressed his disdain for Muggle-borns and his wish to assist the person behind the attacks at Hogwarts, unaware that he was speaking to Harry and Ron in disguise?",
+        "question_period": "Book2-chapter12",
+        "character": "Hermione Granger",
+        "participants": "['Draco Malfoy', 'Harry Potter', 'Ronald Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Mr. Weasley struggled with Muggle currency while paying Mr. Roberts for their campsite, and a wizard had to repeatedly use a Memory Charm on Mr. Roberts to maintain the secrecy of the magical gathering.",
+        "question": "Were you really at the moment when Mr. Weasley struggled with Muggle currency while paying Mr. Roberts for their campsite, and a wizard had to repeatedly use a Memory Charm on Mr. Roberts to maintain the secrecy of the magical gathering?",
+        "question_period": "Book4-chapter6",
+        "character": "Hermione Granger",
+        "participants": "['Arthur Weasley', 'Basil', 'Harry Potter', 'Ginny Weasley', 'Mr. Roberts']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Moody showed Harry an old photograph of the original Order of the Phoenix, which included Harry's deceased parents and was a poignant reminder of the losses in the wizarding war.",
+        "question": "Tell me your feelings when Moody showed Harry an old photograph of the original Order of the Phoenix, which included Harry's deceased parents and was a poignant reminder of the losses in the wizarding war.",
+        "question_period": "Book5-chapter9",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Alastor \"Mad-Eye\" Moody', 'Sirius Black', 'Arthur Weasley', 'Ronald Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry tasked Neville with killing Voldemort's snake, Nagini, as a contingency plan during the Battle of Hogwarts.",
+        "question": "Tell me your feelings when Harry tasked Neville with killing Voldemort's snake, Nagini, as a contingency plan during the Battle of Hogwarts.",
+        "question_period": "Book7-chapter34",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Neville Longbottom', 'Oliver Wood', 'Colin Creevey']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry was approached by Rita Skeeter for an interview after successfully completing the first task of the Triwizard Tournament, but he dismissed her request abruptly.",
+        "question": "Describe your honest feelings when Harry was approached by Rita Skeeter for an interview after successfully completing the first task of the Triwizard Tournament, but he dismissed her request abruptly.",
+        "question_period": "Book4-chapter20",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Rita Skeeter']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry sought help from Professors McGonagall and Grubbly-Plank for his injured owl, Hedwig, who had been attacked and could not fly long distances.",
+        "question": "Were you really at the moment when Harry sought help from Professors McGonagall and Grubbly-Plank for his injured owl, Hedwig, who had been attacked and could not fly long distances?",
+        "question_period": "Book5-chapter17",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Professor McGonagall', 'Professor Grubbly-Plank', 'Stone Gargoyle 1', 'Stone Gargoyle 2']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry revealed to the Dursleys that Lord Voldemort had returned, which led to a rare moment of understanding between him and Aunt Petunia, acknowledging the gravity of the situation.",
+        "question": "Did you truly see the moment when Harry revealed to the Dursleys that Lord Voldemort had returned, which led to a rare moment of understanding between him and Aunt Petunia, acknowledging the gravity of the situation?",
+        "question_period": "Book5-chapter2",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Uncle Vernon Dursley', 'Aunt Petunia Dursley', 'Dudley Dursley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Narcissa Malfoy falsely declared Harry Potter dead to Voldemort and the Death Eaters after verifying her son was alive, allowing her to enter Hogwarts under the pretense of their victory.",
+        "question": "Were you at the moment when Narcissa Malfoy falsely declared Harry Potter dead to Voldemort and the Death Eaters after verifying her son was alive, allowing her to enter Hogwarts under the pretense of their victory?",
+        "question_period": "Book7-chapter36",
+        "character": "Hermione Granger",
+        "participants": "['Narcissa Malfoy', 'Harry Potter', 'Voldemort', 'Hagrid']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry and George Weasley were banned from playing Quidditch for life by Dolores Umbridge after attacking Draco Malfoy post-match, following the implementation of Educational Decree Number Twenty-five.",
+        "question": "Were you indeed present as Harry and George Weasley were banned from playing Quidditch for life by Dolores Umbridge after attacking Draco Malfoy post-match, following the implementation of Educational Decree Number Twenty-five?",
+        "question_period": "Book5-chapter19",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'George Weasley', 'Fred Weasley', 'Angelina Johnson', 'Alicia Spinnet', 'Katie Bell', 'Draco Malfoy', 'Vincent Crabbe', 'Madam Hooch', 'Professor McGonagall', 'Dolores Umbridge']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry, Ron, and Hermione, while in hiding, overheard a conversation between several individuals, including Ted Tonks and Dean Thomas, revealing that the sword in Gringotts was a fake and that Ginny and others were punished but not seriously injured for attempting to steal the real sword from Snape's office.",
+        "question": "Can you describe your experience when Harry, Ron, and Hermione, while in hiding, overheard a conversation between several individuals, including Ted Tonks and Dean Thomas, revealing that the sword in Gringotts was a fake and that Ginny and others were punished but not seriously injured for attempting to steal the real sword from Snape's office?",
+        "question_period": "Book7-chapter15",
+        "character": "Hermione Granger",
+        "participants": "['Ronald Weasley', 'Hermione Granger', 'Harry Potter', 'Ted Tonks', 'Griphook', 'Gornuk', 'Dirk Cresswell', 'Dean Thomas']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry, Ron, and Hermione witnessed Viktor Krum bravely diving into the cold lake from the Durmstrang ship in January, prompting a discussion about his toughness and the giant squid.",
+        "question": "Is it true that you were at the moment when Harry, Ron, and Hermione witnessed Viktor Krum bravely diving into the cold lake from the Durmstrang ship in January, prompting a discussion about his toughness and the giant squid?",
+        "question_period": "Book4-chapter24",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley', 'Viktor Krum']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry, Ron, and Hermione were cornered by Death Eaters and dementors in a side street, but they escaped into the Hog's Head Inn with the help of its barman after Harry conjured a stag Patronus.",
+        "question": "Were you present as Harry, Ron, and Hermione were cornered by Death Eaters and dementors in a side street, but they escaped into the Hog's Head Inn with the help of its barman after Harry conjured a stag Patronus?",
+        "question_period": "Book7-chapter28",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley', 'Death Eater 1', 'Death Eater 2', 'Death Eater 3', 'Death Eater 4', 'Death Eater 5', \"The barman of the Hog's Head Inn\"]"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Ron interrupted the Gryffindor common room's excitement over Harry's Firebolt by revealing that his rat Scabbers had disappeared, leaving behind what appeared to be blood.",
+        "question": "Were you at the moment when Ron interrupted the Gryffindor common room's excitement over Harry's Firebolt by revealing that his rat Scabbers had disappeared, leaving behind what appeared to be blood?",
+        "question_period": "Book3-chapter12",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Ronald Weasley', 'Hermione Granger', 'Neville Longbottom']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry expressed his frustration about Snape's attempt to jinx him and questioned Dumbledore's decision to let Snape teach Defense Against the Dark Arts.",
+        "question": "Describe your honest feelings when Harry expressed his frustration about Snape's attempt to jinx him and questioned Dumbledore's decision to let Snape teach Defense Against the Dark Arts.",
+        "question_period": "Book6-chapter9",
+        "character": "Hermione Granger",
+        "participants": "['Ronald Weasley', 'Hermione Granger', 'Harry Potter']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry was challenged to a wizard's duel by Draco Malfoy, which was to take place at midnight in the trophy room, with Ron declaring himself as Harry's second.",
+        "question": "Is it true that you were at the moment when Harry was challenged to a wizard's duel by Draco Malfoy, which was to take place at midnight in the trophy room, with Ron declaring himself as Harry's second?",
+        "question_period": "Book1-chapter9",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Ronald Weasley', 'George Weasley', 'Fred Weasley', 'Draco Malfoy', 'Hermione Granger', 'Crabbe', 'Goyle']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Hagrid, feeling guilty for inadvertently helping Voldemort, gave Harry a photo album filled with pictures of his parents as a present.",
+        "question": "What did you see as Hagrid, feeling guilty for inadvertently helping Voldemort, gave Harry a photo album filled with pictures of his parents as a present?",
+        "question_period": "Book1-chapter17",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley', 'Madam Pomfrey', 'Hagrid']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Hermione cleaned the blood off Harry's face with a spell upon his return to the Great Hall, where he evaded questions about his encounter with Draco Malfoy.",
+        "question": "Can you describe your experience when Hermione cleaned the blood off Harry's face with a spell upon his return to the Great Hall, where he evaded questions about his encounter with Draco Malfoy?",
+        "question_period": "Book6-chapter8",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley', 'Nearly Headless Nick', 'Ginny Weasley', 'Neville Longbottom', 'Dean Thomas', 'Seamus Finnigan', 'Professor McGonagall', 'Hagrid', 'Professor Trelawney', 'Draco Malfoy', 'Dumbledore']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Hagrid consoled Hermione about the hate mail she received and advised her to ignore any further malicious letters, while Ron confronted Harry about the leprechaun gold he had given him, which had disappeared.",
+        "question": "Can you describe your experience when Hagrid consoled Hermione about the hate mail she received and advised her to ignore any further malicious letters, while Ron confronted Harry about the leprechaun gold he had given him, which had disappeared?",
+        "question_period": "Book4-chapter28",
+        "character": "Hermione Granger",
+        "participants": "['Hagrid', 'Hermione Granger', 'Harry Potter', 'Ronald Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Draco Malfoy taunted Ron about his family's status and the state of his dress robes, hinting at a secretive event he believed Harry and Ron knew nothing about, which led to a shattered compartment door that Hermione repaired with a spell.",
+        "question": "What incident led to Hermione Granger using a spell to fix a broken compartment door, involving Draco Malfoy's taunts towards Ron Weasley about his family and dress robes?",
+        "question_period": "Book4-chapter10",
+        "character": "Hermione Granger",
+        "participants": "['Ronald Weasley', 'Hermione Granger', 'Draco Malfoy', 'Harry Potter', 'Seamus Finnigan', 'Neville Longbottom', 'Hagrid', 'Dean Thomas', 'Crabbe', 'Goyle']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Griphook agreed to help Harry and his friends break into Gringotts, but demanded the sword of Godric Gryffindor as his payment, leading to a tense negotiation.",
+        "question": "What did Griphook request as payment for assisting Harry Potter and his friends in breaking into Gringotts, and what did this lead to?",
+        "question_period": "Book7-chapter25",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Griphook', 'Ronald Weasley', 'Hermione Granger', 'Bill Weasley', 'Fleur Delacour', 'Ollivander']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Hermione warned Harry about a group of girls planning to use love potions on him to secure a date to Slughorn's party, prompting a discussion about the security of items brought into Hogwarts.",
+        "question": "What did Hermione Granger caution Harry Potter about concerning a group of girls and their intentions for Slughorn's party, and what topic did this warning lead to a discussion about?",
+        "question_period": "Book6-chapter15",
+        "character": "Hermione Granger",
+        "participants": "['Hermione Granger', 'Harry Potter', 'Madam Pince']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Hermione angrily suggested to Ron that he should ask her to the next ball before anyone else, implying her frustration at being considered a last resort.",
+        "question": "What did Hermione Granger imply to Ron Weasley about being asked to a dance, and what emotion was she expressing?",
+        "question_period": "Book4-chapter23",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley', 'The Fat Lady', 'Vi']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Harry and Neville received personal lunch invitations from the new teacher, Professor Slughorn, while aboard the Hogwarts Express.",
+        "question": "Which two students were personally invited to lunch by Professor Slughorn during their journey on the Hogwarts Express?",
+        "question_period": "Book6-chapter7",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Neville Longbottom', 'Ronald Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Dumbledore revealed to Harry that Voldemort had once sought a teaching position at Hogwarts for Defense Against the Dark Arts and later worked at Borgin and Burkes, where he was tasked with acquiring valuable objects.",
+        "question": "What did Dumbledore disclose to Harry about Voldemort's past employment and his attempt to secure a teaching role at Hogwarts?",
+        "question_period": "Book6-chapter20",
+        "character": "Hermione Granger",
+        "participants": "['Albus Dumbledore', 'Harry Potter']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Fawkes the phoenix carried Harry, Ron, Ginny, and an amnesiac Lockhart out of the Chamber of Secrets through the pipe to Moaning Myrtle's bathroom.",
+        "question": "How did Harry Potter, Ron Weasley, Ginny Weasley, and an amnesiac Gilderoy Lockhart escape from the Chamber of Secrets, and to which location were they transported?",
+        "question_period": "Book2-chapter17",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Ronald Weasley', 'Ginny Weasley', 'Gilderoy Lockhart', 'Fawkes the phoenix']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Romilda Vane offered Harry Potter Chocolate Cauldrons filled with firewhisky, which he accepted despite not liking them, shortly before Hermione left for the night upon seeing Ron with Lavender.",
+        "question": "Who offered Harry Potter Chocolate Cauldrons laced with firewhisky, and what event followed Hermione Granger's departure after witnessing Ron with another student?",
+        "question_period": "Book6-chapter15",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'The Fat Lady', 'Romilda Vane', 'Hermione Granger']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Hagrid inadvertently revealed to a mysterious stranger how to calm Fluffy, the three-headed dog, by playing music, during a conversation where he won the dragon egg Norbert.",
+        "question": "How did the mysterious stranger learn the secret to pacifying Fluffy, the three-headed dog, and what did Hagrid gain during the interaction that led to this revelation?",
+        "question_period": "Book1-chapter16",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Ronald Weasley', 'Hagrid']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Harry, feeling confused and upset after a quarrel with Cho, encountered a visibly injured Hagrid at the Three Broomsticks, who shared his feelings of being an outsider and the importance of family.",
+        "question": "Who did Harry Potter meet at the Three Broomsticks, and what did they discuss after Harry had an argument with Cho Chang?",
+        "question_period": "Book5-chapter25",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Hagrid', 'Cho Chang']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Sirius Black, while in hiding, revealed to Harry, Ron, and Hermione the dark history of Barty Crouch Sr.'s rise and fall within the Ministry of Magic, including the imprisonment of his own son.",
+        "question": "Who disclosed to Harry, Ron, and Hermione the details of Barty Crouch Sr.'s career and his son's imprisonment while in hiding?",
+        "question_period": "Book4-chapter27",
+        "character": "Hermione Granger",
+        "participants": "['Sirius Black', 'Harry Potter', 'Ronald Weasley', 'Hermione Granger']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Harry and Hermione discovered the ruined and unrebuilt house where Harry's parents had died, and upon Harry's touch, a sign appeared commemorating the Potters and revealing messages of support for Harry from other witches and wizards.",
+        "question": "What did Harry Potter and Hermione Granger find at the site of Harry's parents' death, and what occurred when Harry touched the ruins?",
+        "question_period": "Book7-chapter17",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Hermione Granger']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Harry, Hermione, and Ron decided to go through the trapdoor to reach the Sorcerer's Stone that night, despite the risk of expulsion, after failing to convince Professor McGonagall about the danger and being threatened by Snape.",
+        "question": "Why did Harry Potter, Hermione Granger, and Ron Weasley decide to go through the trapdoor at Hogwarts, and what were the risks they faced?",
+        "question_period": "Book1-chapter16",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley', 'Professor McGonagall', 'Professor Snape']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Wood informed Harry that Professor McGonagall was keeping the Firebolt for an indefinite period due to safety concerns, and suggested Harry consider ordering a new broom.",
+        "question": "Why did Professor McGonagall confiscate Harry Potter's Firebolt, and what did Oliver Wood propose Harry should do about it?",
+        "question_period": "Book3-chapter12",
+        "character": "Hermione Granger",
+        "participants": "['Ronald Weasley', 'Harry Potter', 'Oliver Wood']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Dumbledore arranged for the care of Barty Crouch and the transportation of Mad-Eye Moody to the hospital wing before escorting Harry, who was in shock and numb from the events of the Triwizard Tournament, to his office to meet Sirius.",
+        "question": "What did Dumbledore do for Barty Crouch and Mad-Eye Moody, and where did he take Harry Potter after the Triwizard Tournament?",
+        "question_period": "Book4-chapter36",
+        "character": "Hermione Granger",
+        "participants": "['Albus Dumbledore', 'Harry Potter', 'Minerva McGonagall', 'Severus Snape', 'Barty Crouch Jr.']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Harry felt more relaxed during his Potions practical exam with Snape absent and managed to complete it with a sense of cautious optimism about avoiding a fail.",
+        "question": "How did Harry Potter feel during his Potions practical exam without Professor Snape's presence, and what was his outlook on the exam's outcome?",
+        "question_period": "Book5-chapter31",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Professor Marchbanks', 'Parvati Patil', 'Hermione Granger', 'Ronald Weasley', 'Neville Longbottom']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Harry was cleared of all charges by the full Wizengamot, and Mr. Weasley was elated to hear the news, planning to take Harry straight back to share the good news with the others.",
+        "question": "Who was cleared of all charges by the full Wizengamot, and who was planning to share this good news with the others?",
+        "question_period": "Book5-chapter9",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Mr. Weasley', 'Madam Bones', 'Cornelius Fudge', 'Percy Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Dumbledore and Harry visited Horace Slughorn, who was disguised as an armchair, and after a persuasive conversation, Slughorn agreed to come out of retirement to teach at Hogwarts.",
+        "question": "Who did Albus Dumbledore and Harry Potter persuade to come out of retirement to teach at Hogwarts, and how was this individual disguised when they first encountered him?",
+        "question_period": "Book6-chapter4",
+        "character": "Hermione Granger",
+        "participants": "['Albus Dumbledore', 'Harry Potter', 'Horace Slughorn']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Harry was unable to obtain the memory from Slughorn despite his attempts, and decided to use the Marauder's Map and his Invisibility Cloak to continue his efforts in the Room of Requirement.",
+        "question": "Why did Harry Potter use the Marauder's Map and his Invisibility Cloak in the Room of Requirement during his sixth year at Hogwarts?",
+        "question_period": "Book6-chapter21",
+        "character": "Hermione Granger",
+        "participants": "['Hermione Granger', 'Harry Potter']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Harry attempted to use Umbridge's office fireplace to contact Sirius at Grimmauld Place, only to be caught by Umbridge and interrogated, leading to Snape being subtly informed about Sirius's peril.",
+        "question": "How did Harry Potter try to communicate with Sirius Black and what was the consequence of his action in Dolores Umbridge's office at Hogwarts?",
+        "question_period": "Book5-chapter32",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley', 'Ginny Weasley', 'Luna Lovegood', 'Neville Longbottom', 'Dolores Umbridge', 'Draco Malfoy', 'Millicent Bulstrode', 'Vincent Crabbe', 'Gregory Goyle', 'Piers Polkiss', 'Severus Snape', 'Kreacher']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Harry decided to continue alone to the Chamber of Secrets after a rockfall separated him from Ron and the incapacitated Lockhart.",
+        "question": "What led to Harry Potter proceeding by himself to the Chamber of Secrets, and who was he separated from due to a rockfall?",
+        "question_period": "Book2-chapter16",
+        "character": "Hermione Granger",
+        "participants": "['Ronald Weasley', 'Gilderoy Lockhart', 'Harry Potter']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Professor Lupin confiscated the Marauder's Map from Harry and Ron, expressing disappointment in Harry's actions and reminding him of his parents' sacrifice.",
+        "question": "Why did Professor Lupin confiscate the Marauder's Map from Harry Potter and what was his reaction to Harry's use of it?",
+        "question_period": "Book3-chapter14",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Professor Lupin', 'Ronald Weasley', 'Hermione Granger']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fake-freeform",
+        "event_summary": "Harry had a tense confrontation with Cho Chang about her friend Marietta's betrayal of the D.A., which ended with Cho angrily walking away.",
+        "question": "What led to Cho Chang gratefully hugging Harry after a confrontation about her friend Marietta's betrayal of the D.A.?",
+        "question_period": "Book5-chapter28",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Cho Chang']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fake-freeform",
+        "event_summary": "Harry heard a mysterious voice speaking of violence, which alarmed his friends, and Hermione had a sudden realization that prompted her to rush to the library for answers.",
+        "question": "Why were Harry's friends delighted when he heard a mysterious voice speaking of violence, prompting Hermione to rush to the Quidditch pitch for relaxation?",
+        "question_period": "Book2-chapter14",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fake-freeform",
+        "event_summary": "Harry received additional detentions from Professor Umbridge for speaking out in class and subsequently lost Gryffindor House points from both Umbridge and Professor McGonagall.",
+        "question": "Why did Harry lose Hufflepuff House points from Professor Umbridge and Professor Sprout after receiving detentions for speaking out in class?",
+        "question_period": "Book5-chapter15",
+        "character": "Hermione Granger",
+        "participants": "['Dolores Umbridge', 'Hermione Granger', 'Harry Potter', 'Minerva McGonagall', 'Angelina Johnson', 'Ronald Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fake-freeform",
+        "event_summary": "During the Christmas dinner at Hogwarts, Professor Trelawney joined the table and predicted that the first to rise would be the first to die, causing tension when Harry and Ron got up first.",
+        "question": "Why did the rising of Harry and Hermione from the Christmas dinner at Hogwarts cause tension due to Professor Trelawney's prediction?",
+        "question_period": "Book3-chapter11",
+        "character": "Hermione Granger",
+        "participants": "['Albus Dumbledore', 'Sybill Trelawney', 'Minerva McGonagall', 'Severus Snape', 'Ronald Weasley', 'Harry Potter', 'Hermione Granger']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fake-freeform",
+        "event_summary": "Mrs. Weasley greeted Harry with a hug upon his arrival but hurriedly informed him that he could not attend the Order meeting, instead directing him to wait with Ron and Hermione.",
+        "question": "What was the reason Mrs. Weasley shook hands with Harry and informed him that he would lead the Order meeting upon his arrival?",
+        "question_period": "Book5-chapter4",
+        "character": "Hermione Granger",
+        "participants": "['Mrs. Weasley', 'Harry Potter']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fake-freeform",
+        "event_summary": "Dumbledore dismissed Harry, Ron, and Hermione, after which Harry questioned whether he should have revealed hearing an ominous voice, a concern that Ron found troubling even by wizarding standards.",
+        "question": "Why did Ron find Harry's concern about hearing an ominous voice amusing and quite ordinary by wizarding standards?",
+        "question_period": "Book2-chapter9",
+        "character": "Hermione Granger",
+        "participants": "['Albus Dumbledore', 'Harry Potter', 'Ronald Weasley', 'Hermione Granger']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fake-freeform",
+        "event_summary": "Professor Moody transfigured Draco Malfoy into a ferret and bounced him around the entrance hall as punishment for his behavior towards Harry and Ron, before Professor McGonagall intervened and restored Malfoy to his human form.",
+        "question": "When did Professor Trelawney intervene and restore Draco Malfoy to his human form after Professor Moody transfigured him into a ferret?",
+        "question_period": "Book4-chapter13",
+        "character": "Hermione Granger",
+        "participants": "['Draco Malfoy', 'Vincent Crabbe', 'Gregory Goyle', 'Harry Potter', 'Ronald Weasley', 'Hermione Granger', 'Professor Alastor \"Mad-Eye\" Moody', 'Professor Minerva McGonagall']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fake-freeform",
+        "event_summary": "Harry overheard a conversation between Snape and Quirrell that revealed Snape's pressure on Quirrell regarding the Sorcerer's Stone and its protections.",
+        "question": "What did Harry learn about Snape's support for Quirrell's teaching methods and classroom management from their conversation?",
+        "question_period": "Book1-chapter13",
+        "character": "Hermione Granger",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley', 'Professor Quirrell', 'Professor Snape']"
+    }
+]

@@ -1,0 +1,371 @@
+[
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry decided to continue alone to the Chamber of Secrets after a rockfall separated him from Ron and the incapacitated Lockhart.",
+        "question": "Tell me your genuine feelings when Harry decided to continue alone to the Chamber of Secrets after a rockfall separated him from Ron and the incapacitated Lockhart.",
+        "question_period": "Book2-chapter16",
+        "character": "Ronald Weasley",
+        "participants": "['Ronald Weasley', 'Gilderoy Lockhart', 'Harry Potter']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Hermione woke Harry and Ron on Christmas morning to announce that the Polyjuice Potion was ready, suggesting they use it that night.",
+        "question": "What did you see as Hermione woke Harry and Ron on Christmas morning to announce that the Polyjuice Potion was ready, suggesting they use it that night?",
+        "question_period": "Book2-chapter12",
+        "character": "Ronald Weasley",
+        "participants": "['Hermione Granger', 'Ronald Weasley', 'Harry Potter']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Dobby arrived to rescue Harry and others from the Malfoy Manor's cellar, and during the escape attempt, Wormtail was killed by his own enchanted silver hand after a moment of mercy towards Harry.",
+        "question": "Tell me your feelings when Dobby arrived to rescue Harry and others from the Malfoy Manor's cellar, and during the escape attempt, Wormtail was killed by his own enchanted silver hand after a moment of mercy towards Harry.",
+        "question_period": "Book7-chapter23",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Ronald Weasley', 'Dobby', 'Luna Lovegood', 'Dean Thomas', 'Garrick Ollivander', 'Lucius Malfoy', 'Peter Pettigrew', 'Hermione Granger', 'Draco Malfoy', 'Bellatrix Lestrange']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Dumbledore revealed to Harry that he believed he had located a Horcrux in a cave and invited Harry to join him on the dangerous mission to retrieve it, with the condition that Harry must obey any command without question.",
+        "question": "Describe your feelings when Dumbledore revealed to Harry that he believed he had located a Horcrux in a cave and invited Harry to join him on the dangerous mission to retrieve it, with the condition that Harry must obey any command without question.",
+        "question_period": "Book6-chapter25",
+        "character": "Ronald Weasley",
+        "participants": "['Albus Dumbledore', 'Harry Potter', 'Fawkes']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Hermione speculated that T. M. Riddle's diary might contain information about the Chamber of Secrets and its last opening, leading her to test the diary for hidden ink with a spell and a Revealer.",
+        "question": "Were you at the moment when Hermione speculated that T. M. Riddle's diary might contain information about the Chamber of Secrets and its last opening, leading her to test the diary for hidden ink with a spell and a Revealer?",
+        "question_period": "Book2-chapter13",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Dudley experienced the effects of a Dementor attack, reliving his worst memories and feeling an intense cold, which led to a panicked discussion with his parents who thought he was losing his mind.",
+        "question": "Is it true that you were at the moment when Dudley experienced the effects of a Dementor attack, reliving his worst memories and feeling an intense cold, which led to a panicked discussion with his parents who thought he was losing his mind?",
+        "question_period": "Book5-chapter2",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Dudley Dursley', 'Uncle Vernon Dursley', 'Aunt Petunia Dursley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "During a Quidditch match, Harry's Nimbus Two Thousand broomstick began to behave erratically due to what was believed to be a jinx, but he managed to regain control after Hermione set Snape's robes on fire, distracting him from his spellcasting.",
+        "question": "Is it true that you were at the moment when During a Quidditch match, Harry's Nimbus Two Thousand broomstick began to behave erratically due to what was believed to be a jinx, but he managed to regain control after Hermione set Snape's robes on fire, distracting him from his spellcasting?",
+        "question_period": "Book1-chapter11",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley', 'Hagrid', 'Madam Hooch', 'Lee Jordan', 'Professor McGonagall', 'Oliver Wood', 'Angelina Johnson', 'Alicia Spinnet', 'Katie Bell', 'Fred Weasley', 'George Weasley', 'Marcus Flint', 'Adrian Pucey', 'Terence Higgs', 'Dean Thomas', 'Seamus Finnigan', 'Professor Snape', 'Professor Quirrell']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Ron was distressed about Draco Malfoy's threats to reveal the true cause of his injury, which he had lied about to Madam Pomfrey, claiming it was a dog bite.",
+        "question": "Were you indeed present as Ron was distressed about Draco Malfoy's threats to reveal the true cause of his injury, which he had lied about to Madam Pomfrey, claiming it was a dog bite?",
+        "question_period": "Book1-chapter14",
+        "character": "Ronald Weasley",
+        "participants": "['Ronald Weasley', 'Hermione Granger', 'Harry Potter']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Ron, with Harry's encouragement, faced the manifestation of his deepest insecurities projected by the Horcrux locket before finally destroying it with the Sword of Gryffindor.",
+        "question": "Were you indeed present as Ron, with Harry's encouragement, faced the manifestation of his deepest insecurities projected by the Horcrux locket before finally destroying it with the Sword of Gryffindor?",
+        "question_period": "Book7-chapter19",
+        "character": "Ronald Weasley",
+        "participants": "['Ronald Weasley', 'Harry Potter']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry decided to feign disinterest in Horcruxes to lull Slughorn into a false sense of security, while Hermione was frustrated by her inability to find information on Horcruxes in the Hogwarts library.",
+        "question": "Tell me your feelings when Harry decided to feign disinterest in Horcruxes to lull Slughorn into a false sense of security, while Hermione was frustrated by her inability to find information on Horcruxes in the Hogwarts library.",
+        "question_period": "Book6-chapter18",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Katie Bell was cursed by a mysterious package, causing her to levitate and then fall to the ground in agony, prompting Harry to seek help.",
+        "question": "Tell me your feelings when Katie Bell was cursed by a mysterious package, causing her to levitate and then fall to the ground in agony, prompting Harry to seek help.",
+        "question_period": "Book6-chapter12",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Katie Bell', 'Leanne', 'Ronald Weasley', 'Hermione Granger']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry and Hermione struggled to find a simple spell to subdue a dragon for the upcoming Triwizard Tournament task, eventually leaving the library due to Viktor Krum's distracting presence.",
+        "question": "Describe your feelings when Harry and Hermione struggled to find a simple spell to subdue a dragon for the upcoming Triwizard Tournament task, eventually leaving the library due to Viktor Krum's distracting presence.",
+        "question_period": "Book4-chapter20",
+        "character": "Ronald Weasley",
+        "participants": "['Hermione Granger', 'Harry Potter', 'Viktor Krum']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "During a party, Slughorn praised Harry's natural ability in Potions, comparing him to his mother, while Snape doubted Harry's skills, and Luna unexpectedly voiced her opinion against Harry becoming an Auror due to a conspiracy theory.",
+        "question": "Describe your honest feelings when During a party, Slughorn praised Harry's natural ability in Potions, comparing him to his mother, while Snape doubted Harry's skills, and Luna unexpectedly voiced her opinion against Harry becoming an Auror due to a conspiracy theory.",
+        "question_period": "Book6-chapter15",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Luna Lovegood', 'Professor Slughorn', 'Professor Snape', 'Professor Trelawney']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry's Valentine's Day date with Cho Chang at Madam Puddifoot's tea shop ended abruptly and poorly when Cho became upset over Harry's lack of desire to discuss Cedric Diggory's death.",
+        "question": "What did you actually see as Harry's Valentine's Day date with Cho Chang at Madam Puddifoot's tea shop ended abruptly and poorly when Cho became upset over Harry's lack of desire to discuss Cedric Diggory's death?",
+        "question_period": "Book5-chapter25",
+        "character": "Ronald Weasley",
+        "participants": "['Cho Chang', 'Harry Potter', 'Madam Puddifoot']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Hagrid, in a drunken state, expressed his fear of being fired after Draco Malfoy's injury from a hippogriff during his class, and Harry, Ron, and Hermione assured him of their support.",
+        "question": "Tell me your feelings when Hagrid, in a drunken state, expressed his fear of being fired after Draco Malfoy's injury from a hippogriff during his class, and Harry, Ron, and Hermione assured him of their support.",
+        "question_period": "Book3-chapter6",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Rubeus Hagrid']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry Potter, under his Invisibility Cloak, followed Blaise Zabini into the Slytherin compartment to eavesdrop on Draco Malfoy, acting on a suspicion he needed to confirm alone.",
+        "question": "Is it right that you were at the moment when Harry Potter, under his Invisibility Cloak, followed Blaise Zabini into the Slytherin compartment to eavesdrop on Draco Malfoy, acting on a suspicion he needed to confirm alone?",
+        "question_period": "Book6-chapter7",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Ginny Weasley', 'Neville Longbottom', 'Blaise Zabini', 'Horace Slughorn']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Dobby informed Harry about the Room of Requirement, a secret room at Hogwarts that appears based on a person's needs, and offered to show it to him for the purpose of finding a place to practice Defense Against the Dark Arts discreetly.",
+        "question": "Can you describe your experience when Dobby informed Harry about the Room of Requirement, a secret room at Hogwarts that appears based on a person's needs, and offered to show it to him for the purpose of finding a place to practice Defense Against the Dark Arts discreetly?",
+        "question_period": "Book5-chapter18",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Dobby']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Dumbledore informed Harry about the nature of Inferi and revealed his favorite flavor of jam as raspberry during a conversation that was interrupted by the discovery of a damaged front door at their destination.",
+        "question": "Can you describe your experience when Dumbledore informed Harry about the nature of Inferi and revealed his favorite flavor of jam as raspberry during a conversation that was interrupted by the discovery of a damaged front door at their destination?",
+        "question_period": "Book6-chapter4",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Albus Dumbledore']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry Potter was forced to use a magical quill that inscribed the phrase \"I must not tell lies\" on his hand with his own blood during a detention with Professor Umbridge.",
+        "question": "Were you indeed present as Harry Potter was forced to use a magical quill that inscribed the phrase \"I must not tell lies\" on his hand with his own blood during a detention with Professor Umbridge?",
+        "question_period": "Book5-chapter13",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Professor Umbridge']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Hagrid led a detention group into the Forbidden Forest to track a wounded unicorn, assuring them of their safety despite the presence of dangerous creatures.",
+        "question": "Were you indeed present as Hagrid led a detention group into the Forbidden Forest to track a wounded unicorn, assuring them of their safety despite the presence of dangerous creatures?",
+        "question_period": "Book1-chapter15",
+        "character": "Ronald Weasley",
+        "participants": "['Argus Filch', 'Draco Malfoy', 'Harry Potter', 'Hagrid', 'Hermione Granger', 'Neville Longbottom']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Dobby provided Harry with gillyweed to breathe underwater for the second task of the Triwizard Tournament after Harry had fallen asleep in the library without finding a solution.",
+        "question": "Were you really at the moment when Dobby provided Harry with gillyweed to breathe underwater for the second task of the Triwizard Tournament after Harry had fallen asleep in the library without finding a solution?",
+        "question_period": "Book4-chapter26",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Dobby']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Luna Lovegood stunned Alecto Carrow in the Ravenclaw common room, which led to a confrontation between the Ravenclaws, Amycus Carrow, and Professor McGonagall at the common room door.",
+        "question": "Can you describe your experience when Luna Lovegood stunned Alecto Carrow in the Ravenclaw common room, which led to a confrontation between the Ravenclaws, Amycus Carrow, and Professor McGonagall at the common room door?",
+        "question_period": "Book7-chapter30",
+        "character": "Ronald Weasley",
+        "participants": "['Luna Lovegood', 'Harry Potter', 'First-year Ravenclaw student', 'Eagle door knocker', 'Amycus Carrow', 'Professor Minerva McGonagall']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Ron received a letter from his brother Percy advising him to distance himself from Harry and expressing support for Dolores Umbridge's approach at Hogwarts, which led to Ron tearing up the letter in disgust.",
+        "question": "Did you see the moment when Ron received a letter from his brother Percy advising him to distance himself from Harry and expressing support for Dolores Umbridge's approach at Hogwarts, which led to Ron tearing up the letter in disgust?",
+        "question_period": "Book5-chapter14",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Ronald Weasley', 'Hermione Granger', 'Sirius Black']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry revealed to Ron and Hermione that his scar hurt again, which was a concern because it coincided with the resurgence of the Death Eaters and the Dark Mark in the sky.",
+        "question": "What did you hear when Harry revealed to Ron and Hermione that his scar hurt again, which was a concern because it coincided with the resurgence of the Death Eaters and the Dark Mark in the sky?",
+        "question_period": "Book4-chapter9",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Ronald Weasley', 'Hermione Granger', 'Molly Weasley', 'Percy Weasley', 'Bill Weasley', 'Charlie Weasley', 'Fred Weasley', 'George Weasley', 'Ginny Weasley', 'Arthur Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Nearly Headless Nick discussed the Sorting Hat's warnings and the importance of unity among the Hogwarts Houses during a meal at Hogwarts, but the conversation ended with him feeling insulted by Ron's comments.",
+        "question": "Is it true that you were at the moment when Nearly Headless Nick discussed the Sorting Hat's warnings and the importance of unity among the Hogwarts Houses during a meal at Hogwarts, but the conversation ended with him feeling insulted by Ron's comments?",
+        "question_period": "Book5-chapter11",
+        "character": "Ronald Weasley",
+        "participants": "['Ronald Weasley', 'Hermione Granger', 'Nearly Headless Nick', 'Harry Potter', 'Draco Malfoy', 'The Bloody Baron', 'Colin Creevey', 'Dennis Creevey']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Hermione convinced Harry and Ron to visit Xenophilius Lovegood to inquire about a mysterious symbol that linked Dumbledore, Grindelwald, and Godric's Hollow, despite Harry's reservations.",
+        "question": "Were you at the moment when Hermione convinced Harry and Ron to visit Xenophilius Lovegood to inquire about a mysterious symbol that linked Dumbledore, Grindelwald, and Godric's Hollow, despite Harry's reservations?",
+        "question_period": "Book7-chapter20",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "During a Charms class, Hermione suggested to Harry that Umbridge was intercepting his mail, which led to a discussion about the close call with Sirius the previous night.",
+        "question": "Tell me your feelings when During a Charms class, Hermione suggested to Harry that Umbridge was intercepting his mail, which led to a discussion about the close call with Sirius the previous night.",
+        "question_period": "Book5-chapter18",
+        "character": "Ronald Weasley",
+        "participants": "['Hermione Granger', 'Harry Potter', 'Ronald Weasley', 'Professor Flitwick']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-structured",
+        "event_summary": "Harry, Ron, and Lockhart traversed a dark, slimy tunnel beneath the school, with Harry reminding them to close their eyes at any sign of movement to protect against the basilisk.",
+        "question": "Describe your honest feelings when Harry, Ron, and Lockhart traversed a dark, slimy tunnel beneath the school, with Harry reminding them to close their eyes at any sign of movement to protect against the basilisk.",
+        "question_period": "Book2-chapter16",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Ronald Weasley', 'Gilderoy Lockhart']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Harry, Ron, and Hermione speculated about the intended recipient of the cursed necklace that Katie Bell had been given, considering various potential targets including Dumbledore, Slughorn, and Harry himself.",
+        "question": "Who were the potential targets Harry Potter, Ron Weasley, and Hermione Granger considered might have been the intended recipient of the cursed necklace that affected Katie Bell?",
+        "question_period": "Book6-chapter12",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Hermione, disguised as Mafalda, was assigned by Umbridge to assist with record-keeping for the trials at the Ministry of Magic.",
+        "question": "Who was disguised as Mafalda and assigned to help with record-keeping during the trials at the Ministry of Magic under Dolores Umbridge's supervision?",
+        "question_period": "Book7-chapter13",
+        "character": "Ronald Weasley",
+        "participants": "['Dolores Umbridge', 'Hermione Granger', 'Harry Potter', 'Pius Thicknesse']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "During a Quidditch match, Harry was affected by the presence of dementors, which caused him to fall from his broomstick and lose consciousness.",
+        "question": "What caused Harry Potter to fall from his broomstick and lose consciousness during a Quidditch match at Hogwarts?",
+        "question_period": "Book3-chapter9",
+        "character": "Ronald Weasley",
+        "participants": "['Madam Hooch', 'Oliver Wood', 'Harry Potter', 'Hermione Granger', 'Cedric Diggory', 'Dementors', 'Ronald Weasley', 'Draco Malfoy']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Harry Potter first saw the Thestrals, mysterious horse-like creatures pulling the Hogwarts carriages, which were invisible to those who had not witnessed death.",
+        "question": "When did Harry Potter first see the Thestrals, and what is the condition required to view these magical creatures?",
+        "question_period": "Book5-chapter10",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Ronald Weasley', 'Hermione Granger', 'Luna Lovegood', 'Draco Malfoy', 'Vincent Crabbe', 'Gregory Goyle', 'Pansy Parkinson', 'Ginny Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Remus Lupin revealed the truth about his werewolf condition and his friends' illegal Animagus transformations, explaining the origins of the Marauder's Map and the Shrieking Shack's purpose.",
+        "question": "Who disclosed the details of his lycanthropy and his friends' unauthorized Animagus transformations, and what did this reveal about the Marauder's Map and the Shrieking Shack?",
+        "question_period": "Book3-chapter18",
+        "character": "Ronald Weasley",
+        "participants": "['Ronald Weasley', 'Hermione Granger', 'Harry Potter', 'Sirius Black', 'Remus Lupin', 'Peter Pettigrew']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Professor Umbridge conducted an inspection of Professor Trelawney's Divination class, questioning her qualifications and demanding an on-the-spot prediction, which led Trelawney to theatrically warn Umbridge of grave danger.",
+        "question": "During whose Divination class at Hogwarts did Dolores Umbridge demand an impromptu prediction, leading to a dramatic forewarning of peril directed at Umbridge herself?",
+        "question_period": "Book5-chapter15",
+        "character": "Ronald Weasley",
+        "participants": "['Professor Umbridge', 'Professor Trelawney', 'Harry Potter', 'Ronald Weasley', 'Neville Longbottom', 'Parvati Patil', 'Lavender Brown']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "During the Christmas dinner at Hogwarts, Professor Trelawney joined the table and predicted that the first to rise would be the first to die, causing tension when Harry and Ron got up first.",
+        "question": "What prediction did Professor Trelawney make at the Christmas dinner at Hogwarts that caused tension when Harry Potter and Ron Weasley stood up?",
+        "question_period": "Book3-chapter11",
+        "character": "Ronald Weasley",
+        "participants": "['Albus Dumbledore', 'Sybill Trelawney', 'Minerva McGonagall', 'Severus Snape', 'Ronald Weasley', 'Harry Potter', 'Hermione Granger']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Aberforth Dumbledore used his goat Patronus to fend off Death Eaters who mistook it for Harry's stag Patronus, leading to a confrontation in which Aberforth defended his actions and revealed his connection to Harry through the mirror.",
+        "question": "How did Aberforth Dumbledore mislead the Death Eaters and what did he disclose to Harry regarding their connection during the confrontation?",
+        "question_period": "Book7-chapter28",
+        "character": "Ronald Weasley",
+        "participants": "['Aberforth Dumbledore', 'Harry Potter', 'Ronald Weasley', 'Hermione Granger', 'Death Eater', 'Death Eater 1']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Harry received a multitude of letters from readers in response to his interview in The Quibbler about his encounter with Voldemort, leading to a confrontation with Professor Umbridge who penalized him with detention and a Gryffindor point deduction.",
+        "question": "What was the outcome for Harry Potter after his interview about Voldemort was published in The Quibbler, and who punished him at Hogwarts?",
+        "question_period": "Book5-chapter26",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Ronald Weasley', 'Hermione Granger', 'Fred Weasley', 'Luna Lovegood', 'Professor Umbridge']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Sirius Black, while in hiding, revealed to Harry, Ron, and Hermione the dark history of Barty Crouch Sr.'s rise and fall within the Ministry of Magic, including the imprisonment of his own son.",
+        "question": "Who disclosed to Harry, Ron, and Hermione the details of Barty Crouch Sr.'s career and his son's imprisonment while in hiding?",
+        "question_period": "Book4-chapter27",
+        "character": "Ronald Weasley",
+        "participants": "['Sirius Black', 'Harry Potter', 'Ronald Weasley', 'Hermione Granger']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fact-freeform",
+        "event_summary": "Ron used a Severing Charm on his dress robes to remove the lace ruff and cuffs, leaving the edges frayed, before attending the Yule Ball.",
+        "question": "How did Ron Weasley alter his dress robes before the Yule Ball during his fourth year at Hogwarts?",
+        "question_period": "Book4-chapter23",
+        "character": "Ronald Weasley",
+        "participants": "['Fat lady', 'Dean Thomas', 'Ronald Weasley', 'Harry Potter', 'Parvati Patil', 'Seamus Finnigan', 'Neville Longbottom']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fake-freeform",
+        "event_summary": "Hagrid shared with Harry that Grawp, his half-brother giant, had a new home in the mountains and was much happier, hinting at his progress and the possibility of training him as an assistant.",
+        "question": "When did Hagrid inform Harry about Grawp's new role as a professor in the Forbidden Forest?",
+        "question_period": "Book6-chapter8",
+        "character": "Ronald Weasley",
+        "participants": "['Hagrid', 'Harry Potter', 'Ronald Weasley']"
+    },
+    {
+        "series": "harry_potter",
+        "question_generation": "fake-freeform",
+        "event_summary": "Hagrid received a letter stating that Buckbeak the hippogriff would face a hearing with the Committee for the Disposal of Dangerous Creatures due to an incident with a student, causing Hagrid great distress.",
+        "question": "What caused Hagrid great joy after receiving a letter about Buckbeak's hearing with the Committee for the Disposal of Dangerous Creatures?",
+        "question_period": "Book3-chapter11",
+        "character": "Ronald Weasley",
+        "participants": "['Harry Potter', 'Hermione Granger', 'Ronald Weasley', 'Hagrid']"
+    }
+]
